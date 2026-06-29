@@ -1,7 +1,7 @@
 # DataPeaks Solutions — Weekly Projects
 
 Real-world data analytics projects added every Saturday.
-Domain: Healthcare & Pharma Analytics
+Domains: Healthcare · Pharma · Finance · Marketing · Retail & mores
 
 ## Projects
 
