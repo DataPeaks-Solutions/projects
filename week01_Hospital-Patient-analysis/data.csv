@@ -1,0 +1,21 @@
+PatientID,Name,Age,Gender,Admission_Date,Discharge_Date,Department,Diagnosis,LOS_Days,Bill_Amount,Payment_Mode,Status
+P001,Rahul Sharma,45,Male,2024-01-03,2024-01-07,Cardiology,Hypertension,4,28000,Insurance,Discharged
+P002,Priya Reddy,32,Female,2024-01-05,2024-01-09,Gynecology,Prenatal Care,4,22000,Cash,Discharged
+P003,Mohammed Ali,67,Male,2024-01-06,,Orthopedics,Fracture,, ,Insurance,Admitted
+P004,Sunita Rao,55,Female,2024-01-08,2024-01-12,Neurology,Migraine,4,31000,Insurance,Discharged
+P005,Vikram Nair,29,Male,2024-01-10,2024-01-11,General,Fever,1,8500,Cash,Discharged
+P006,Lakshmi Devi,72,Female,2024-01-11,2024-01-18,Cardiology,Heart Failure,7,85000,Insurance,Discharged
+P007,Arun Kumar,41,Male,2024-01-13,,ICU,Accident,,,Government,Admitted
+P008,Meena Patel,38,Female,2024-01-14,2024-01-16,Dermatology,Skin Allergy,2,12000,Cash,Discharged
+P009,Suresh Iyer,60,Male,2024-01-15,2024-01-22,Oncology,Cancer Screening,7,95000,Insurance,Discharged
+P010,Fatima Begum,48,Female,2024-01-17,2024-01-20,Endocrinology,Diabetes,3,18000,Insurance,Discharged
+P011,Rajesh Gupta,35,Male,2024-01-18,2024-01-19,General,Cold & Cough,1,5000,Cash,Discharged
+P012,Ananya Singh,26,Female,2024-01-20,2024-01-23,Gynecology,PCOS,3,16500,Cash,Discharged
+P013,Kiran Reddy,53,Male,2024-01-21,,Nephrology,Kidney Stone,,,Insurance,Admitted
+P014,Deepa Nair,44,Female,2024-01-22,2024-01-25,Neurology,Epilepsy,3,27000,Government,Discharged
+P015,Sanjay Mehta,58,Male,2024-01-24,2024-01-28,Cardiology,Angina,4,42000,Insurance,Discharged
+P016,Kavitha Rao,31,Female,2024-01-25,2024-01-26,General,UTI,1,7000,Cash,Discharged
+P017,Naresh Kumar,69,Male,2024-01-27,2024-02-03,Orthopedics,Hip Replacement,7,120000,Insurance,Discharged
+P018,Sarala Devi,77,Female,2024-01-28,,Geriatrics,Dementia,,,Government,Admitted
+P019,Vinod Sharma,42,Male,2024-01-29,2024-01-31,Pulmonology,Asthma,2,14000,Insurance,Discharged
+P020,Rekha Pillai,36,Female,2024-01-30,2024-02-02,Endocrinology,Thyroid,3,19500,Cash,Discharged

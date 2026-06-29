@@ -1,0 +1,13 @@
+slides/
+audio/
+output/
+*.mp4
+*.mp3
+temp_audio.m4a
+__pycache__/
+*.pyc
+
+# Video production scripts kept local only — not part of this repo's scope
+build_video.py
+generate_audio.py
+generate_slides.py
