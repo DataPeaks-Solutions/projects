@@ -8,6 +8,8 @@ Domains: Healthcare · Pharma · Finance · Marketing · Retail & mores
 | Week | Project | Tools |
 |------|---------|-------|
 | 01 | [Hospital Patient Analysis](./week01_Hospital-Patient-analysis/) | Python, Pandas, Matplotlib |
+| 02 | [Marketing Attribution & CAC/ROAS Pipeline](week02_Marketing-Attribution-Pipeline/README.md) | Python, Pandas, NumPy, Matplotlib |
+
 
 ## Tech Stack
 Python · SQL · Power BI · Machine Learning
