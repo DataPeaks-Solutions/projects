@@ -1,0 +1,61 @@
+product_id,product_name,category,subcategory,unit_cost,unit_price
+1,Accessories - Est Pro,Electronics,Accessories,7001.62,12008.38
+2,Laptops - Error Series X,Electronics,Laptops,4221.66,6723.5
+3,Accessories - Ipsam Plus,Electronics,Accessories,4275.0,6068.9
+4,Accessories - Adipisci Max,Electronics,Accessories,7310.17,10523.93
+5,Audio - Voluptas Plus,Electronics,Audio,4939.1,6591.65
+6,Audio - Harum Max,Electronics,Audio,4530.98,6150.38
+7,Audio - Quod Lite,Electronics,Audio,5683.47,9566.23
+8,Audio - Quaerat Series X,Electronics,Audio,3916.46,6236.34
+9,Audio - Quos Classic,Electronics,Audio,2409.15,3858.09
+10,Accessories - Rem Max,Electronics,Accessories,7181.72,10601.46
+11,Laptops - Rem Series X,Electronics,Laptops,2430.05,3405.33
+12,Smartphones - Dolor Max,Electronics,Smartphones,2868.95,4331.15
+13,Watches - Consequatur Max,Fashion,Watches,1829.8,3256.25
+14,Footwear - Amet Classic,Fashion,Footwear,1227.59,2002.17
+15,Women's Wear - Officia Classic,Fashion,Women's Wear,2053.3,3426.72
+16,Women's Wear - Magnam Lite,Fashion,Women's Wear,5157.86,6378.95
+17,Footwear - Dolor Plus,Fashion,Footwear,5781.26,7344.41
+18,Men's Wear - Deserunt Plus,Fashion,Men's Wear,7721.47,14551.4
+19,Watches - Fuga Lite,Fashion,Watches,5275.21,9582.17
+20,Watches - Maiores Max,Fashion,Watches,5256.73,9089.61
+21,Footwear - Reprehenderit Pro,Fashion,Footwear,2390.51,2967.61
+22,Women's Wear - Expedita Pro,Fashion,Women's Wear,4350.95,7423.51
+23,Women's Wear - Eveniet Pro,Fashion,Women's Wear,3430.4,6127.8
+24,Watches - Facere Series X,Fashion,Watches,6335.49,8428.85
+25,Furnishing - In Classic,Home & Kitchen,Furnishing,7032.43,8484.54
+26,Appliances - Consectetur Max,Home & Kitchen,Appliances,992.31,1873.58
+27,Furnishing - Rem Lite,Home & Kitchen,Furnishing,7914.43,12507.26
+28,Cookware - Natus Plus,Home & Kitchen,Cookware,6830.82,10434.86
+29,Cookware - Reiciendis Series X,Home & Kitchen,Cookware,2745.87,4700.33
+30,Furnishing - Esse Max,Home & Kitchen,Furnishing,5791.0,7006.29
+31,Furnishing - Autem Plus,Home & Kitchen,Furnishing,4607.08,7970.7
+32,Appliances - Itaque Lite,Home & Kitchen,Appliances,6870.75,12559.25
+33,Appliances - Perspiciatis Pro,Home & Kitchen,Appliances,2724.22,4033.43
+34,Cookware - Doloribus Plus,Home & Kitchen,Cookware,7856.23,12053.17
+35,Cookware - Placeat Max,Home & Kitchen,Cookware,2197.16,2998.83
+36,Furnishing - Voluptas Pro,Home & Kitchen,Furnishing,2520.27,4299.63
+37,Haircare - Voluptates Pro,Beauty & Personal Care,Haircare,5281.41,8898.85
+38,Fragrance - Repellat Lite,Beauty & Personal Care,Fragrance,1078.07,1525.22
+39,Fragrance - Consequatur Series X,Beauty & Personal Care,Fragrance,4094.79,7479.47
+40,Haircare - Saepe Max,Beauty & Personal Care,Haircare,5568.78,9172.33
+41,Haircare - Temporibus Plus,Beauty & Personal Care,Haircare,4974.81,6732.86
+42,Haircare - In Classic,Beauty & Personal Care,Haircare,1352.51,2330.94
+43,Haircare - Amet Lite,Beauty & Personal Care,Haircare,3414.39,5409.98
+44,Fragrance - Repellat Plus,Beauty & Personal Care,Fragrance,6445.66,11459.88
+45,Fragrance - Modi Pro,Beauty & Personal Care,Fragrance,6074.71,11002.48
+46,Fragrance - Beatae Pro,Beauty & Personal Care,Fragrance,3656.97,6189.92
+47,Fragrance - Aspernatur Classic,Beauty & Personal Care,Fragrance,1030.84,1835.04
+48,Skincare - Iusto Max,Beauty & Personal Care,Skincare,4645.71,6062.17
+49,Outdoor - Laudantium Series X,Sports & Fitness,Outdoor,3618.45,6065.27
+50,Outdoor - Nostrum Lite,Sports & Fitness,Outdoor,3987.3,7293.66
+51,Fitness Equipment - Nesciunt Lite,Sports & Fitness,Fitness Equipment,3709.44,5784.03
+52,Outdoor - Cumque Max,Sports & Fitness,Outdoor,603.23,919.12
+53,Outdoor - Eum Pro,Sports & Fitness,Outdoor,320.9,442.24
+54,Outdoor - Ullam Lite,Sports & Fitness,Outdoor,1860.53,2327.75
+55,Sportswear - Sed Pro,Sports & Fitness,Sportswear,5648.02,8917.18
+56,Fitness Equipment - Accusamus Max,Sports & Fitness,Fitness Equipment,7891.18,12077.06
+57,Sportswear - Tempora Series X,Sports & Fitness,Sportswear,1562.85,2023.58
+58,Outdoor - Suscipit Lite,Sports & Fitness,Outdoor,5220.16,7800.24
+59,Sportswear - Modi Lite,Sports & Fitness,Sportswear,6976.52,12800.08
+60,Fitness Equipment - Asperiores Classic,Sports & Fitness,Fitness Equipment,5509.43,9163.59

@@ -1,0 +1,1827 @@
+order_id,customer_id,order_date,order_status,shipping_city,shipping_state,payment_method
+1,601,2025-12-04,Delivered,Jaipur,Rajasthan,Cash on Delivery
+2,482,2025-09-04,Delivered,Bengaluru,Karnataka,Net Banking
+3,466,2025-11-10,Delivered,Kochi,Kerala,Credit Card
+4,567,2025-03-10,Delivered,Nagpur,Maharashtra,UPI
+5,258,2025-11-03,Delivered,Kochi,Kerala,Debit Card
+6,135,2025-03-29,Delivered,Ahmedabad,Gujarat,Credit Card
+7,521,2025-09-16,Cancelled,Nagpur,Maharashtra,Cash on Delivery
+8,69,2025-11-29,Delivered,Jaipur,Rajasthan,Credit Card
+9,384,2025-12-16,Delivered,Bengaluru,Karnataka,Cash on Delivery
+10,77,2025-07-05,Delivered,Bengaluru,Karnataka,Cash on Delivery
+11,360,2025-12-28,Delivered,Nagpur,Maharashtra,Credit Card
+12,296,2025-12-17,Cancelled,Kochi,Kerala,Credit Card
+13,205,2025-07-25,Delivered,Kolkata,West Bengal,Credit Card
+14,177,2025-07-04,Delivered,Ahmedabad,Gujarat,Debit Card
+15,466,2025-09-23,Delivered,Kochi,Kerala,Debit Card
+16,592,2025-05-22,Delivered,Bengaluru,Karnataka,UPI
+17,26,2025-12-03,Delivered,Jaipur,Rajasthan,Credit Card
+18,88,2025-11-21,Delivered,Mumbai,Maharashtra,Debit Card
+19,22,2025-12-16,Cancelled,Delhi,Delhi,Credit Card
+20,431,2025-10-22,Delivered,Jaipur,Rajasthan,Credit Card
+21,366,2025-01-07,Delivered,Lucknow,Uttar Pradesh,Debit Card
+22,67,2025-08-19,Delivered,Kochi,Kerala,UPI
+23,656,2025-03-18,Delivered,Lucknow,Uttar Pradesh,Credit Card
+24,192,2025-06-03,Delivered,Kolkata,West Bengal,Credit Card
+25,451,2025-02-19,Delivered,Nagpur,Maharashtra,Debit Card
+26,456,2025-05-26,Delivered,Bengaluru,Karnataka,Cash on Delivery
+27,564,2025-05-30,Delivered,Ahmedabad,Gujarat,Debit Card
+28,12,2025-11-07,Delivered,Pune,Maharashtra,UPI
+29,565,2025-10-04,Delivered,Jaipur,Rajasthan,Net Banking
+30,653,2025-05-14,Delivered,Kochi,Kerala,Credit Card
+31,171,2025-09-09,Delivered,Ahmedabad,Gujarat,Cash on Delivery
+32,440,2025-07-13,Delivered,Bengaluru,Karnataka,Cash on Delivery
+33,27,2025-12-18,Cancelled,Kolkata,West Bengal,Debit Card
+34,3,2025-11-29,Cancelled,Nagpur,Maharashtra,Debit Card
+35,560,2025-01-29,Delivered,Mumbai,Maharashtra,Debit Card
+36,150,2025-04-17,Delivered,Pune,Maharashtra,UPI
+37,364,2025-11-08,Cancelled,Lucknow,Uttar Pradesh,Net Banking
+38,681,2025-12-26,Delivered,Hyderabad,Telangana,Debit Card
+39,627,2025-04-09,Delivered,Mumbai,Maharashtra,Net Banking
+40,115,2025-03-24,Delivered,Hyderabad,Telangana,Cash on Delivery
+41,519,2025-12-25,Returned,Chennai,Tamil Nadu,Credit Card
+42,596,2025-02-04,Cancelled,Chennai,Tamil Nadu,Net Banking
+43,699,2025-11-15,Delivered,Delhi,Delhi,Credit Card
+44,405,2025-07-04,Returned,Ahmedabad,Gujarat,Cash on Delivery
+45,163,2025-04-02,Delivered,Nagpur,Maharashtra,Net Banking
+46,378,2025-06-16,Delivered,Nagpur,Maharashtra,Cash on Delivery
+47,91,2025-06-04,Delivered,Hyderabad,Telangana,Debit Card
+48,181,2025-03-12,Delivered,Mumbai,Maharashtra,UPI
+49,644,2025-12-23,Delivered,Lucknow,Uttar Pradesh,UPI
+50,250,2025-06-21,Delivered,Delhi,Delhi,Credit Card
+51,100,2025-03-20,Delivered,Chennai,Tamil Nadu,Credit Card
+52,453,2025-11-09,Delivered,Pune,Maharashtra,Credit Card
+53,231,2025-02-15,Delivered,Ahmedabad,Gujarat,Cash on Delivery
+54,349,2025-02-13,Delivered,Mumbai,Maharashtra,Credit Card
+55,444,2025-06-19,Delivered,Jaipur,Rajasthan,Debit Card
+56,270,2025-12-06,Returned,Lucknow,Uttar Pradesh,UPI
+57,235,2025-12-30,Delivered,Kolkata,West Bengal,Credit Card
+58,686,2025-12-14,Delivered,Chennai,Tamil Nadu,Debit Card
+59,682,2025-11-17,Delivered,Nagpur,Maharashtra,Cash on Delivery
+60,21,2025-03-22,Delivered,Bengaluru,Karnataka,Credit Card
+61,189,2025-07-30,Cancelled,Ahmedabad,Gujarat,UPI
+62,326,2025-09-15,Delivered,Kolkata,West Bengal,Net Banking
+63,659,2025-12-30,Delivered,Ahmedabad,Gujarat,Net Banking
+64,510,2025-01-22,Delivered,Kolkata,West Bengal,UPI
+65,258,2025-05-27,Delivered,Chennai,Tamil Nadu,Credit Card
+66,66,2025-11-30,Delivered,Delhi,Delhi,Debit Card
+67,336,2025-02-13,Delivered,Pune,Maharashtra,Net Banking
+68,10,2025-08-17,Delivered,Mumbai,Maharashtra,Credit Card
+69,424,2025-11-08,Delivered,Bengaluru,Karnataka,Net Banking
+70,665,2025-04-17,Delivered,Jaipur,Rajasthan,Credit Card
+71,139,2025-11-12,Delivered,Bengaluru,Karnataka,Cash on Delivery
+72,534,2025-12-01,Delivered,Nagpur,Maharashtra,Credit Card
+73,158,2025-06-12,Delivered,Lucknow,Uttar Pradesh,Cash on Delivery
+74,272,2025-12-11,Delivered,Kochi,Kerala,Net Banking
+75,603,2025-11-05,Delivered,Lucknow,Uttar Pradesh,Debit Card
+76,575,2025-11-18,Delivered,Bengaluru,Karnataka,UPI
+77,380,2025-11-25,Delivered,Delhi,Delhi,Cash on Delivery
+78,476,2025-07-10,Returned,Kolkata,West Bengal,UPI
+79,695,2025-09-26,Delivered,Hyderabad,Telangana,Cash on Delivery
+80,380,2025-11-01,Delivered,,Delhi,Debit Card
+81,361,2025-11-11,Delivered,Kochi,Kerala,UPI
+82,402,2025-12-16,Delivered,Jaipur,Rajasthan,Debit Card
+83,249,2025-04-02,Delivered,Chennai,Tamil Nadu,Cash on Delivery
+84,4,2025-04-25,Returned,Bengaluru,Karnataka,Debit Card
+85,635,2025-09-18,Delivered,Mumbai,Maharashtra,UPI
+86,10,2025-11-14,Delivered,Mumbai,Maharashtra,Credit Card
+87,626,2025-12-31,Delivered,Ahmedabad,Gujarat,UPI
+88,487,2025-11-10,Delivered,Chennai,Tamil Nadu,Credit Card
+89,415,2025-12-28,Delivered,,Maharashtra,Debit Card
+90,212,2025-07-21,Delivered,Mumbai,Maharashtra,Credit Card
+91,673,2025-03-11,Delivered,Hyderabad,Telangana,Net Banking
+92,197,2025-05-18,Delivered,Kolkata,West Bengal,UPI
+93,680,2025-02-15,Delivered,Mumbai,Maharashtra,Cash on Delivery
+94,325,2025-01-06,Returned,Lucknow,Uttar Pradesh,Debit Card
+95,303,2025-11-06,Delivered,Ahmedabad,Gujarat,Debit Card
+96,71,2025-11-06,Delivered,Lucknow,Uttar Pradesh,Credit Card
+97,253,2025-12-30,Delivered,Ahmedabad,Gujarat,Net Banking
+98,308,2025-07-19,Delivered,Hyderabad,Telangana,Debit Card
+99,272,2025-11-23,Delivered,Kochi,Kerala,Debit Card
+100,514,2025-01-07,Delivered,Nagpur,Maharashtra,Credit Card
+101,618,2025-11-06,Delivered,Pune,Maharashtra,UPI
+102,69,2025-11-24,Delivered,Jaipur,Rajasthan,Debit Card
+103,501,2025-04-13,Delivered,Kolkata,West Bengal,Cash on Delivery
+104,461,2025-12-07,Delivered,Lucknow,Uttar Pradesh,UPI
+105,41,2025-09-04,Delivered,Jaipur,Rajasthan,UPI
+106,532,2025-11-25,Delivered,Mumbai,Maharashtra,Debit Card
+107,540,2025-06-07,Delivered,Pune,Maharashtra,UPI
+108,384,2025-12-15,Delivered,Bengaluru,Karnataka,Debit Card
+109,556,2025-12-23,Cancelled,Mumbai,Maharashtra,Net Banking
+110,40,2025-11-27,Delivered,Bengaluru,Karnataka,Cash on Delivery
+111,637,2025-05-26,Delivered,Mumbai,Maharashtra,Cash on Delivery
+112,494,2025-10-13,Delivered,Pune,Maharashtra,Cash on Delivery
+113,92,2025-08-26,Cancelled,Jaipur,Rajasthan,Net Banking
+114,69,2025-06-21,Delivered,Jaipur,Rajasthan,Credit Card
+115,26,2025-06-16,Delivered,Nagpur,Maharashtra,Net Banking
+116,260,2025-08-23,Cancelled,Ahmedabad,Gujarat,Debit Card
+117,466,2025-11-10,Delivered,Lucknow,Uttar Pradesh,Net Banking
+118,69,2025-04-24,Delivered,Jaipur,Rajasthan,Net Banking
+119,559,2025-02-20,Delivered,Bengaluru,Karnataka,Net Banking
+120,399,2025-10-20,Delivered,Hyderabad,Telangana,Credit Card
+121,452,2025-08-26,Delivered,Chennai,Tamil Nadu,Net Banking
+122,513,2025-05-19,Delivered,Kochi,Kerala,Debit Card
+123,551,2025-08-27,Delivered,Hyderabad,Telangana,UPI
+124,235,2025-12-26,Delivered,Kolkata,West Bengal,Cash on Delivery
+125,9,2025-12-16,Delivered,Lucknow,Uttar Pradesh,UPI
+126,383,2025-09-24,Delivered,Hyderabad,Telangana,Net Banking
+127,26,2025-10-24,Delivered,Nagpur,Maharashtra,Cash on Delivery
+128,252,2025-03-17,Delivered,Mumbai,Maharashtra,Credit Card
+129,299,2025-01-18,Delivered,Hyderabad,Telangana,Credit Card
+130,237,2025-10-07,Delivered,Pune,Maharashtra,Cash on Delivery
+131,257,2025-12-10,Delivered,Hyderabad,Telangana,Credit Card
+132,197,2025-03-17,Delivered,Kolkata,West Bengal,Debit Card
+133,226,2025-03-13,Delivered,Kolkata,West Bengal,Net Banking
+134,263,2025-07-12,Returned,Bengaluru,Karnataka,Cash on Delivery
+135,471,2025-03-20,Delivered,Kolkata,West Bengal,Credit Card
+136,656,2025-09-01,Returned,Bengaluru,Karnataka,Credit Card
+137,132,2025-05-29,Cancelled,Nagpur,Maharashtra,UPI
+138,679,2025-12-17,Returned,Jaipur,Rajasthan,Credit Card
+139,154,2025-12-20,Delivered,Chennai,Tamil Nadu,UPI
+140,338,2025-07-05,Delivered,Jaipur,Rajasthan,Credit Card
+141,197,2025-02-27,Cancelled,Kolkata,West Bengal,Net Banking
+142,652,2025-12-25,Delivered,Chennai,Tamil Nadu,Cash on Delivery
+143,343,2025-04-20,Cancelled,Nagpur,Maharashtra,Credit Card
+144,639,2025-01-21,Delivered,Jaipur,Rajasthan,Debit Card
+145,425,2025-12-14,Delivered,Lucknow,Uttar Pradesh,UPI
+146,588,2025-03-28,Delivered,Chennai,Tamil Nadu,Net Banking
+147,160,2025-05-20,Delivered,Chennai,Tamil Nadu,Net Banking
+148,559,2025-11-12,Delivered,Bengaluru,Karnataka,UPI
+149,110,2025-01-17,Delivered,Bengaluru,Karnataka,UPI
+150,136,2025-10-04,Returned,Ahmedabad,Gujarat,Net Banking
+151,446,2025-12-28,Delivered,Jaipur,Rajasthan,Credit Card
+152,2,2025-12-15,Delivered,Chennai,Tamil Nadu,Net Banking
+153,534,2025-06-22,Returned,Nagpur,Maharashtra,Credit Card
+154,498,2025-04-26,Delivered,Pune,Maharashtra,UPI
+155,499,2025-09-01,Delivered,Kochi,Kerala,Cash on Delivery
+156,368,2025-11-02,Returned,,Maharashtra,Debit Card
+157,673,2025-11-30,Delivered,Hyderabad,Telangana,Net Banking
+158,207,2025-12-09,Delivered,Kolkata,West Bengal,Credit Card
+159,365,2025-12-21,Returned,Chennai,Tamil Nadu,UPI
+160,537,2025-03-13,Delivered,Nagpur,Maharashtra,Cash on Delivery
+161,22,2025-11-08,Delivered,Kochi,Kerala,Credit Card
+162,45,2025-12-05,Delivered,Bengaluru,Karnataka,Credit Card
+163,386,2025-01-28,Delivered,Kochi,Kerala,Debit Card
+164,416,2025-06-04,Delivered,Hyderabad,Telangana,Credit Card
+165,16,2025-09-09,Delivered,Bengaluru,Karnataka,UPI
+166,472,2025-11-29,Delivered,Jaipur,Rajasthan,Debit Card
+167,240,2025-12-09,Delivered,Delhi,Delhi,Debit Card
+168,548,2025-10-13,Delivered,Mumbai,Maharashtra,Credit Card
+169,360,2025-11-24,Delivered,Nagpur,Maharashtra,Net Banking
+170,465,2025-12-31,Delivered,Kochi,Kerala,Net Banking
+171,212,2025-05-08,Delivered,Mumbai,Maharashtra,Net Banking
+172,299,2025-12-10,Delivered,Lucknow,Uttar Pradesh,Cash on Delivery
+173,591,2025-12-28,Delivered,Ahmedabad,Gujarat,Debit Card
+174,540,2025-09-13,Delivered,Pune,Maharashtra,Debit Card
+175,52,2025-10-12,Returned,Pune,Maharashtra,Debit Card
+176,528,2025-12-26,Delivered,Jaipur,Rajasthan,Cash on Delivery
+177,586,2025-05-07,Delivered,Kochi,Kerala,Debit Card
+178,175,2025-02-24,Delivered,Jaipur,Rajasthan,Net Banking
+179,124,2025-06-16,Returned,Nagpur,Maharashtra,Debit Card
+180,224,2025-12-20,Delivered,Jaipur,Rajasthan,Credit Card
+181,265,2025-03-03,Delivered,Lucknow,Uttar Pradesh,Cash on Delivery
+182,581,2025-08-11,Delivered,Bengaluru,Karnataka,Net Banking
+183,156,2025-12-02,Delivered,Mumbai,Maharashtra,UPI
+184,218,2025-05-08,Cancelled,Lucknow,Uttar Pradesh,Cash on Delivery
+185,669,2025-01-09,Returned,Kochi,Kerala,Debit Card
+186,83,2025-05-13,Delivered,Delhi,Delhi,UPI
+187,52,2025-07-27,Delivered,Pune,Maharashtra,Net Banking
+188,443,2025-10-03,Delivered,Chennai,Tamil Nadu,UPI
+189,326,2025-12-07,Delivered,Kolkata,West Bengal,Net Banking
+190,640,2025-06-11,Delivered,Bengaluru,Karnataka,UPI
+191,143,2025-09-17,Delivered,Chennai,Tamil Nadu,Net Banking
+192,8,2025-03-24,Delivered,Jaipur,Rajasthan,Credit Card
+193,444,2025-11-02,Cancelled,Jaipur,Rajasthan,UPI
+194,189,2025-12-20,Returned,Ahmedabad,Gujarat,Net Banking
+195,304,2025-02-22,Delivered,Jaipur,Rajasthan,UPI
+196,204,2025-11-29,Delivered,Ahmedabad,Gujarat,Debit Card
+197,582,2025-08-04,Delivered,Ahmedabad,Gujarat,Net Banking
+198,168,2025-11-01,Delivered,Delhi,Delhi,Net Banking
+199,78,2025-11-25,Delivered,Jaipur,Rajasthan,Cash on Delivery
+200,171,2025-06-10,Delivered,Hyderabad,Telangana,Net Banking
+201,684,2025-04-12,Delivered,Mumbai,Maharashtra,Net Banking
+202,216,2025-10-04,Delivered,Bengaluru,Karnataka,Cash on Delivery
+203,596,2025-12-21,Delivered,Chennai,Tamil Nadu,Net Banking
+204,535,2025-11-22,Cancelled,Nagpur,Maharashtra,Net Banking
+205,539,2025-02-11,Delivered,Ahmedabad,Gujarat,Debit Card
+206,604,2025-08-02,Delivered,Hyderabad,Telangana,Net Banking
+207,221,2025-11-11,Delivered,Pune,Maharashtra,UPI
+208,361,2025-11-24,Cancelled,Kochi,Kerala,Credit Card
+209,160,2025-10-17,Delivered,Chennai,Tamil Nadu,Cash on Delivery
+210,12,2025-12-07,Delivered,Pune,Maharashtra,Net Banking
+211,644,2025-12-13,Delivered,Mumbai,Maharashtra,Credit Card
+212,486,2025-06-14,Delivered,Mumbai,Maharashtra,UPI
+213,332,2025-06-12,Delivered,Bengaluru,Karnataka,Cash on Delivery
+214,237,2025-03-20,Delivered,Chennai,Tamil Nadu,Credit Card
+215,26,2025-09-10,Delivered,Nagpur,Maharashtra,Net Banking
+216,415,2025-12-07,Delivered,Pune,Maharashtra,Credit Card
+217,34,2025-08-05,Delivered,Jaipur,Rajasthan,Cash on Delivery
+218,220,2025-05-25,Cancelled,Lucknow,Uttar Pradesh,Credit Card
+219,550,2025-11-09,Delivered,Ahmedabad,Gujarat,Net Banking
+220,77,2025-11-12,Delivered,Bengaluru,Karnataka,UPI
+221,155,2025-11-18,Delivered,Kolkata,West Bengal,Debit Card
+222,197,2025-12-03,Delivered,Kolkata,West Bengal,Cash on Delivery
+223,67,2025-05-21,Delivered,Kochi,Kerala,Cash on Delivery
+224,642,2025-11-28,Delivered,Chennai,Tamil Nadu,Net Banking
+225,167,2025-01-23,Delivered,Delhi,Delhi,Cash on Delivery
+226,549,2025-12-15,Delivered,Kolkata,West Bengal,Credit Card
+227,64,2025-01-13,Cancelled,Bengaluru,Karnataka,Debit Card
+228,70,2025-03-05,Returned,Ahmedabad,Gujarat,UPI
+229,460,2025-08-10,Returned,Hyderabad,Telangana,Net Banking
+230,385,2025-12-04,Delivered,Chennai,Tamil Nadu,Cash on Delivery
+231,206,2025-11-14,Cancelled,Pune,Maharashtra,Debit Card
+232,227,2025-11-01,Delivered,Kolkata,West Bengal,Cash on Delivery
+233,449,2025-12-22,Delivered,,Uttar Pradesh,Debit Card
+234,235,2025-07-24,Returned,Kolkata,West Bengal,UPI
+235,190,2025-07-04,Cancelled,Kolkata,West Bengal,Credit Card
+236,160,2025-04-02,Delivered,Chennai,Tamil Nadu,UPI
+237,202,2025-12-05,Delivered,Kolkata,West Bengal,Credit Card
+238,637,2025-11-09,Delivered,Mumbai,Maharashtra,Cash on Delivery
+239,634,2025-10-26,Cancelled,Jaipur,Rajasthan,Net Banking
+240,444,2025-11-06,Delivered,Jaipur,Rajasthan,Debit Card
+241,277,2025-08-19,Cancelled,Kochi,Kerala,Credit Card
+242,486,2025-11-03,Returned,Mumbai,Maharashtra,Credit Card
+243,135,2025-12-12,Delivered,Ahmedabad,Gujarat,Credit Card
+244,453,2025-04-07,Cancelled,Pune,Maharashtra,Cash on Delivery
+245,652,2025-12-08,Delivered,Chennai,Tamil Nadu,Debit Card
+246,455,2025-07-15,Delivered,Bengaluru,Karnataka,Debit Card
+247,284,2025-12-13,Returned,Bengaluru,Karnataka,Net Banking
+248,102,2025-05-22,Delivered,Bengaluru,Karnataka,Cash on Delivery
+249,663,2025-05-28,Delivered,Pune,Maharashtra,Net Banking
+250,564,2025-01-23,Delivered,Ahmedabad,Gujarat,Debit Card
+251,12,2025-10-11,Delivered,Pune,Maharashtra,Debit Card
+252,652,2025-07-24,Delivered,Chennai,Tamil Nadu,Credit Card
+253,78,2025-11-08,Returned,Jaipur,Rajasthan,Credit Card
+254,5,2025-01-25,Delivered,Hyderabad,Telangana,Credit Card
+255,340,2025-04-23,Cancelled,Bengaluru,Karnataka,Debit Card
+256,143,2025-04-29,Delivered,Chennai,Tamil Nadu,Debit Card
+257,526,2025-11-20,Delivered,Delhi,Delhi,Cash on Delivery
+258,136,2025-12-29,Delivered,Ahmedabad,Gujarat,UPI
+259,676,2025-08-16,Delivered,Lucknow,Uttar Pradesh,UPI
+260,80,2025-12-07,Delivered,Kochi,Kerala,Debit Card
+261,228,2025-04-15,Delivered,Ahmedabad,Gujarat,Credit Card
+262,171,2025-11-12,Delivered,Kolkata,West Bengal,Credit Card
+263,64,2025-09-04,Delivered,Bengaluru,Karnataka,Debit Card
+264,556,2025-12-29,Delivered,Mumbai,Maharashtra,Debit Card
+265,48,2025-07-11,Delivered,Bengaluru,Karnataka,UPI
+266,485,2025-07-08,Cancelled,Pune,Maharashtra,Debit Card
+267,65,2025-01-07,Delivered,Pune,Maharashtra,Net Banking
+268,556,2025-12-29,Delivered,Mumbai,Maharashtra,Cash on Delivery
+269,282,2025-06-07,Cancelled,Hyderabad,Telangana,Net Banking
+270,371,2025-04-12,Delivered,Ahmedabad,Gujarat,Credit Card
+271,644,2025-04-09,Cancelled,Lucknow,Uttar Pradesh,UPI
+272,446,2025-01-22,Delivered,Jaipur,Rajasthan,Debit Card
+273,553,2025-07-09,Delivered,Bengaluru,Karnataka,Net Banking
+274,215,2025-01-14,Delivered,Lucknow,Uttar Pradesh,Net Banking
+275,373,2025-11-24,Delivered,Nagpur,Maharashtra,Net Banking
+276,568,2025-12-04,Delivered,Hyderabad,Telangana,UPI
+277,285,2025-08-17,Cancelled,Ahmedabad,Gujarat,UPI
+278,78,2025-11-17,Delivered,Jaipur,Rajasthan,Cash on Delivery
+279,541,2025-11-04,Delivered,Ahmedabad,Gujarat,Net Banking
+280,639,2025-03-01,Delivered,Jaipur,Rajasthan,Cash on Delivery
+281,575,2025-07-06,Delivered,Bengaluru,Karnataka,Credit Card
+282,630,2025-11-15,Delivered,Kolkata,West Bengal,UPI
+283,151,2025-04-26,Delivered,Kochi,Kerala,Credit Card
+284,685,2025-03-23,Delivered,Jaipur,Rajasthan,Net Banking
+285,279,2025-08-15,Cancelled,Delhi,Delhi,UPI
+286,248,2025-01-29,Delivered,Nagpur,Maharashtra,Cash on Delivery
+287,659,2025-12-10,Delivered,Bengaluru,Karnataka,Net Banking
+288,318,2025-11-27,Delivered,Pune,Maharashtra,Cash on Delivery
+289,526,2025-12-13,Delivered,Delhi,Delhi,UPI
+290,644,2025-12-19,Delivered,Lucknow,Uttar Pradesh,Cash on Delivery
+291,235,2025-12-31,Delivered,Kolkata,West Bengal,Net Banking
+292,181,2025-04-21,Returned,Lucknow,Uttar Pradesh,UPI
+293,664,2025-11-28,Delivered,Mumbai,Maharashtra,Credit Card
+294,564,2025-11-06,Delivered,Ahmedabad,Gujarat,UPI
+295,669,2025-12-30,Delivered,Kochi,Kerala,Cash on Delivery
+296,320,2025-07-26,Delivered,Nagpur,Maharashtra,Credit Card
+297,615,2025-12-09,Delivered,Ahmedabad,Gujarat,Debit Card
+298,645,2025-12-18,Delivered,Lucknow,Uttar Pradesh,Credit Card
+299,250,2025-11-29,Delivered,Kochi,Kerala,Credit Card
+300,295,2025-10-04,Delivered,Pune,Maharashtra,Debit Card
+301,11,2025-04-22,Delivered,Kochi,Kerala,Cash on Delivery
+302,135,2025-07-01,Delivered,Ahmedabad,Gujarat,UPI
+303,526,2025-05-09,Returned,Delhi,Delhi,UPI
+304,101,2025-06-19,Delivered,Mumbai,Maharashtra,UPI
+305,83,2025-07-24,Cancelled,Delhi,Delhi,Debit Card
+306,303,2025-12-03,Delivered,Ahmedabad,Gujarat,Credit Card
+307,497,2025-11-13,Delivered,Kolkata,West Bengal,UPI
+308,640,2025-04-24,Cancelled,Bengaluru,Karnataka,Debit Card
+309,460,2025-02-21,Delivered,Hyderabad,Telangana,UPI
+310,23,2025-04-18,Delivered,Pune,Maharashtra,Cash on Delivery
+311,585,2025-02-20,Delivered,Jaipur,Rajasthan,Credit Card
+312,415,2025-03-02,Delivered,Bengaluru,Karnataka,Credit Card
+313,78,2025-03-26,Delivered,Jaipur,Rajasthan,Credit Card
+314,556,2025-10-10,Delivered,Mumbai,Maharashtra,UPI
+315,313,2025-04-18,Delivered,Nagpur,Maharashtra,Cash on Delivery
+316,637,2025-05-16,Delivered,Mumbai,Maharashtra,UPI
+317,607,2025-12-11,Delivered,Ahmedabad,Gujarat,Debit Card
+318,445,2025-09-11,Delivered,Ahmedabad,Gujarat,Cash on Delivery
+319,616,2025-12-18,Delivered,Bengaluru,Karnataka,Credit Card
+320,513,2025-01-07,Cancelled,Kochi,Kerala,Credit Card
+321,698,2025-11-09,Delivered,Lucknow,Uttar Pradesh,Credit Card
+322,46,2025-05-27,Delivered,Nagpur,Maharashtra,Net Banking
+323,681,2025-12-04,Delivered,Hyderabad,Telangana,Debit Card
+324,486,2025-02-09,Delivered,Mumbai,Maharashtra,Credit Card
+325,567,2025-05-23,Delivered,Nagpur,Maharashtra,Debit Card
+326,20,2025-11-27,Returned,Bengaluru,Karnataka,Cash on Delivery
+327,559,2025-03-13,Delivered,Bengaluru,Karnataka,Net Banking
+328,204,2025-11-28,Delivered,Ahmedabad,Gujarat,Net Banking
+329,252,2025-11-01,Delivered,Mumbai,Maharashtra,Cash on Delivery
+330,267,2025-08-21,Delivered,Lucknow,Uttar Pradesh,Credit Card
+331,170,2025-11-26,Delivered,Nagpur,Maharashtra,Net Banking
+332,218,2025-11-24,Returned,Lucknow,Uttar Pradesh,Cash on Delivery
+333,655,2025-04-07,Cancelled,Ahmedabad,Gujarat,Cash on Delivery
+334,437,2025-07-02,Delivered,Bengaluru,Karnataka,Debit Card
+335,595,2025-01-20,Delivered,Bengaluru,Karnataka,UPI
+336,157,2025-12-03,Delivered,Kochi,Kerala,Debit Card
+337,681,2025-02-19,Delivered,Hyderabad,Telangana,UPI
+338,600,2025-02-15,Delivered,Hyderabad,Telangana,Credit Card
+339,559,2025-02-12,Delivered,Bengaluru,Karnataka,UPI
+340,133,2025-11-30,Delivered,Mumbai,Maharashtra,Net Banking
+341,390,2025-12-09,Delivered,Nagpur,Maharashtra,Net Banking
+342,279,2025-12-17,Delivered,Delhi,Delhi,Debit Card
+343,383,2025-03-26,Delivered,Kolkata,West Bengal,Net Banking
+344,110,2025-03-19,Delivered,Mumbai,Maharashtra,Net Banking
+345,429,2025-11-24,Delivered,Bengaluru,Karnataka,Credit Card
+346,229,2025-11-14,Delivered,Kochi,Kerala,UPI
+347,138,2025-11-29,Delivered,Kolkata,West Bengal,Debit Card
+348,444,2025-11-06,Delivered,Jaipur,Rajasthan,Cash on Delivery
+349,99,2025-11-29,Delivered,Kochi,Kerala,Net Banking
+350,656,2025-12-25,Delivered,Lucknow,Uttar Pradesh,Net Banking
+351,641,2025-07-11,Returned,Jaipur,Rajasthan,Credit Card
+352,486,2025-10-20,Delivered,Delhi,Delhi,Cash on Delivery
+353,341,2025-11-18,Cancelled,Jaipur,Rajasthan,Net Banking
+354,628,2025-12-17,Cancelled,Bengaluru,Karnataka,Debit Card
+355,373,2025-11-17,Delivered,Nagpur,Maharashtra,Debit Card
+356,162,2025-09-07,Delivered,Bengaluru,Karnataka,Debit Card
+357,49,2025-11-20,Delivered,Kochi,Kerala,Debit Card
+358,513,2025-05-11,Cancelled,Delhi,Delhi,Credit Card
+359,579,2025-11-06,Cancelled,Kochi,Kerala,Debit Card
+360,407,2025-11-13,Delivered,Pune,Maharashtra,Cash on Delivery
+361,552,2025-08-08,Delivered,Jaipur,Rajasthan,Net Banking
+362,501,2025-02-28,Delivered,Kolkata,West Bengal,UPI
+363,116,2025-04-30,Returned,Hyderabad,Telangana,Cash on Delivery
+364,535,2025-11-21,Delivered,Pune,Maharashtra,Cash on Delivery
+365,143,2025-12-12,Delivered,Chennai,Tamil Nadu,Debit Card
+366,138,2025-12-23,Delivered,Delhi,Delhi,Net Banking
+367,110,2025-10-03,Delivered,Nagpur,Maharashtra,UPI
+368,588,2025-11-10,Returned,Chennai,Tamil Nadu,UPI
+369,659,2025-12-31,Delivered,Bengaluru,Karnataka,Credit Card
+370,63,2025-06-24,Delivered,Ahmedabad,Gujarat,Credit Card
+371,611,2025-11-18,Delivered,Bengaluru,Karnataka,Net Banking
+372,395,2025-11-28,Delivered,Kolkata,West Bengal,Debit Card
+373,361,2025-04-23,Delivered,Kochi,Kerala,UPI
+374,502,2025-07-27,Delivered,Nagpur,Maharashtra,Debit Card
+375,556,2025-05-28,Delivered,Mumbai,Maharashtra,Cash on Delivery
+376,8,2025-01-07,Delivered,Jaipur,Rajasthan,Credit Card
+377,684,2025-04-27,Delivered,Mumbai,Maharashtra,UPI
+378,41,2025-12-02,Delivered,Jaipur,Rajasthan,Cash on Delivery
+379,382,2025-12-23,Delivered,Pune,Maharashtra,Net Banking
+380,138,2025-03-31,Delivered,Delhi,Delhi,Debit Card
+381,416,2025-06-27,Delivered,Hyderabad,Telangana,Credit Card
+382,44,2025-12-06,Delivered,Chennai,Tamil Nadu,UPI
+383,150,2025-09-15,Delivered,Pune,Maharashtra,Credit Card
+384,552,2025-07-17,Delivered,Jaipur,Rajasthan,Debit Card
+385,324,2025-06-15,Delivered,Delhi,Delhi,Credit Card
+386,8,2025-04-04,Delivered,Jaipur,Rajasthan,Cash on Delivery
+387,22,2025-05-05,Delivered,Kochi,Kerala,Debit Card
+388,331,2025-12-24,Delivered,Bengaluru,Karnataka,Net Banking
+389,220,2025-04-25,Cancelled,Lucknow,Uttar Pradesh,Net Banking
+390,659,2025-05-07,Delivered,Bengaluru,Karnataka,UPI
+391,600,2025-12-23,Delivered,Hyderabad,Telangana,Cash on Delivery
+392,2,2025-12-24,Returned,Chennai,Tamil Nadu,UPI
+393,270,2025-09-15,Returned,Lucknow,Uttar Pradesh,Net Banking
+394,575,2025-12-04,Delivered,Bengaluru,Karnataka,Cash on Delivery
+395,587,2025-12-30,Delivered,Hyderabad,Telangana,Credit Card
+396,638,2025-03-31,Delivered,Nagpur,Maharashtra,Credit Card
+397,339,2025-01-03,Delivered,Ahmedabad,Gujarat,Cash on Delivery
+398,500,2025-11-06,Delivered,Bengaluru,Karnataka,Cash on Delivery
+399,392,2025-05-04,Delivered,Ahmedabad,Gujarat,UPI
+400,632,2025-03-13,Delivered,Bengaluru,Karnataka,UPI
+401,100,2025-11-10,Returned,Jaipur,Rajasthan,Cash on Delivery
+402,681,2025-12-23,Delivered,Hyderabad,Telangana,Cash on Delivery
+403,578,2025-11-29,Delivered,Mumbai,Maharashtra,Credit Card
+404,100,2025-11-05,Delivered,Chennai,Tamil Nadu,Debit Card
+405,61,2025-12-15,Delivered,Nagpur,Maharashtra,Net Banking
+406,260,2025-09-24,Delivered,Ahmedabad,Gujarat,Credit Card
+407,662,2025-12-24,Delivered,Kolkata,West Bengal,UPI
+408,584,2025-01-17,Delivered,Hyderabad,Telangana,Debit Card
+409,54,2025-01-30,Delivered,Chennai,Tamil Nadu,Cash on Delivery
+410,538,2025-05-21,Delivered,Jaipur,Rajasthan,Cash on Delivery
+411,396,2025-01-07,Returned,Mumbai,Maharashtra,UPI
+412,398,2025-06-10,Delivered,Ahmedabad,Gujarat,Debit Card
+413,88,2025-04-05,Delivered,Mumbai,Maharashtra,UPI
+414,248,2025-09-19,Returned,Nagpur,Maharashtra,UPI
+415,352,2025-07-28,Returned,Delhi,Delhi,UPI
+416,191,2025-12-31,Delivered,Nagpur,Maharashtra,Credit Card
+417,394,2025-10-03,Delivered,Nagpur,Maharashtra,Cash on Delivery
+418,212,2025-05-31,Delivered,Pune,Maharashtra,Credit Card
+419,613,2025-07-05,Delivered,Chennai,Tamil Nadu,Net Banking
+420,336,2025-12-23,Delivered,Pune,Maharashtra,Net Banking
+421,517,2025-03-17,Delivered,Pune,Maharashtra,UPI
+422,135,2025-11-03,Delivered,Ahmedabad,Gujarat,UPI
+423,280,2025-07-01,Returned,Delhi,Delhi,Cash on Delivery
+424,415,2025-11-19,Cancelled,Pune,Maharashtra,Cash on Delivery
+425,299,2025-09-26,Cancelled,Hyderabad,Telangana,UPI
+426,462,2025-11-11,Delivered,Kochi,Kerala,Debit Card
+427,201,2025-01-14,Delivered,Lucknow,Uttar Pradesh,Credit Card
+428,456,2025-11-18,Delivered,Bengaluru,Karnataka,Credit Card
+429,136,2025-12-11,Delivered,Ahmedabad,Gujarat,UPI
+430,133,2025-12-05,Delivered,Mumbai,Maharashtra,Credit Card
+431,210,2025-11-10,Delivered,Kochi,Kerala,Credit Card
+432,392,2025-04-17,Delivered,Ahmedabad,Gujarat,Cash on Delivery
+433,512,2025-09-29,Delivered,Bengaluru,Karnataka,Debit Card
+434,233,2025-11-15,Returned,Bengaluru,Karnataka,UPI
+435,349,2025-01-15,Delivered,Mumbai,Maharashtra,UPI
+436,246,2025-05-14,Delivered,Chennai,Tamil Nadu,Debit Card
+437,360,2025-11-25,Delivered,Nagpur,Maharashtra,UPI
+438,131,2025-04-21,Delivered,Kolkata,West Bengal,Cash on Delivery
+439,275,2025-12-20,Delivered,Chennai,Tamil Nadu,Net Banking
+440,423,2025-12-03,Delivered,Kochi,Kerala,Credit Card
+441,555,2025-11-06,Delivered,Nagpur,Maharashtra,Cash on Delivery
+442,562,2025-02-25,Delivered,Chennai,Tamil Nadu,UPI
+443,469,2025-10-18,Delivered,Chennai,Tamil Nadu,Net Banking
+444,512,2025-12-15,Returned,Bengaluru,Karnataka,Cash on Delivery
+445,485,2025-03-27,Delivered,Pune,Maharashtra,Net Banking
+446,447,2025-12-26,Delivered,Chennai,Tamil Nadu,Debit Card
+447,251,2025-03-11,Cancelled,Jaipur,Rajasthan,UPI
+448,252,2025-12-11,Delivered,Mumbai,Maharashtra,Net Banking
+449,586,2025-12-17,Returned,Kochi,Kerala,Debit Card
+450,669,2025-12-21,Delivered,Kochi,Kerala,Credit Card
+451,568,2025-06-04,Delivered,Hyderabad,Telangana,Net Banking
+452,586,2025-06-12,Delivered,Kochi,Kerala,Credit Card
+453,629,2025-06-28,Delivered,Ahmedabad,Gujarat,Net Banking
+454,465,2025-04-10,Delivered,Kochi,Kerala,Debit Card
+455,546,2025-12-07,Delivered,Bengaluru,Karnataka,Cash on Delivery
+456,513,2025-12-25,Delivered,Kochi,Kerala,Debit Card
+457,249,2025-01-08,Delivered,Kolkata,West Bengal,Cash on Delivery
+458,222,2025-11-30,Delivered,Kochi,Kerala,UPI
+459,108,2025-11-17,Delivered,Mumbai,Maharashtra,Net Banking
+460,559,2025-04-08,Delivered,Bengaluru,Karnataka,Debit Card
+461,526,2025-04-01,Delivered,Chennai,Tamil Nadu,Debit Card
+462,501,2025-12-16,Delivered,Kolkata,West Bengal,Cash on Delivery
+463,545,2025-09-01,Delivered,Ahmedabad,Gujarat,UPI
+464,355,2025-06-06,Delivered,Bengaluru,Karnataka,Cash on Delivery
+465,150,2025-11-24,Delivered,Pune,Maharashtra,Credit Card
+466,136,2025-11-22,Delivered,Ahmedabad,Gujarat,Credit Card
+467,26,2025-04-13,Cancelled,Nagpur,Maharashtra,Net Banking
+468,102,2025-07-21,Delivered,Bengaluru,Karnataka,UPI
+469,344,2025-01-14,Delivered,Bengaluru,Karnataka,Debit Card
+470,699,2025-11-13,Delivered,Delhi,Delhi,Credit Card
+471,509,2025-12-14,Returned,Mumbai,Maharashtra,Net Banking
+472,140,2025-02-27,Delivered,Pune,Maharashtra,Credit Card
+473,189,2025-08-24,Delivered,Ahmedabad,Gujarat,UPI
+474,581,2025-12-18,Delivered,Bengaluru,Karnataka,Credit Card
+475,103,2025-09-26,Delivered,Bengaluru,Karnataka,UPI
+476,495,2025-02-21,Delivered,Kochi,Kerala,Debit Card
+477,491,2025-12-01,Delivered,Lucknow,Uttar Pradesh,UPI
+478,351,2025-05-05,Delivered,Kochi,Kerala,Credit Card
+479,621,2025-12-03,Returned,,Maharashtra,Credit Card
+480,136,2025-11-22,Delivered,Ahmedabad,Gujarat,Debit Card
+481,92,2025-09-29,Delivered,Jaipur,Rajasthan,UPI
+482,192,2025-05-01,Delivered,Kolkata,West Bengal,UPI
+483,87,2025-12-20,Delivered,Kolkata,West Bengal,Debit Card
+484,484,2025-12-26,Delivered,Kochi,Kerala,Net Banking
+485,283,2025-02-11,Returned,Lucknow,Uttar Pradesh,UPI
+486,439,2025-05-31,Delivered,Jaipur,Rajasthan,Net Banking
+487,469,2025-11-12,Delivered,Jaipur,Rajasthan,Debit Card
+488,185,2025-12-14,Delivered,Ahmedabad,Gujarat,Debit Card
+489,487,2025-11-29,Delivered,Chennai,Tamil Nadu,Debit Card
+490,164,2025-03-14,Delivered,Ahmedabad,Gujarat,UPI
+491,385,2025-06-19,Cancelled,Chennai,Tamil Nadu,Credit Card
+492,629,2025-09-01,Delivered,Ahmedabad,Gujarat,Credit Card
+493,317,2025-12-17,Delivered,Bengaluru,Karnataka,Credit Card
+494,659,2025-03-03,Delivered,Bengaluru,Karnataka,UPI
+495,362,2025-11-22,Delivered,Lucknow,Uttar Pradesh,UPI
+496,113,2025-05-17,Delivered,Delhi,Delhi,UPI
+497,405,2025-12-08,Delivered,Ahmedabad,Gujarat,Debit Card
+498,497,2025-11-26,Delivered,Ahmedabad,Gujarat,Net Banking
+499,640,2025-09-18,Delivered,Bengaluru,Karnataka,Debit Card
+500,204,2025-11-07,Delivered,Ahmedabad,Gujarat,Cash on Delivery
+501,611,2025-11-26,Delivered,Bengaluru,Karnataka,Cash on Delivery
+502,269,2025-06-05,Delivered,Lucknow,Uttar Pradesh,Debit Card
+503,311,2025-05-21,Delivered,Bengaluru,Karnataka,Debit Card
+504,248,2025-11-13,Returned,Nagpur,Maharashtra,Cash on Delivery
+505,613,2025-11-22,Cancelled,Chennai,Tamil Nadu,UPI
+506,289,2025-05-14,Delivered,Lucknow,Uttar Pradesh,UPI
+507,77,2025-06-20,Delivered,Bengaluru,Karnataka,Credit Card
+508,264,2025-11-28,Delivered,Jaipur,Rajasthan,Debit Card
+509,410,2025-02-07,Delivered,Mumbai,Maharashtra,Credit Card
+510,585,2025-07-19,Cancelled,Jaipur,Rajasthan,Cash on Delivery
+511,527,2025-07-01,Returned,Chennai,Tamil Nadu,Credit Card
+512,664,2025-04-28,Delivered,Pune,Maharashtra,Debit Card
+513,517,2025-01-14,Delivered,Pune,Maharashtra,Net Banking
+514,66,2025-09-22,Delivered,Delhi,Delhi,Debit Card
+515,551,2025-05-11,Delivered,Hyderabad,Telangana,UPI
+516,468,2025-05-21,Delivered,Delhi,Delhi,Cash on Delivery
+517,255,2025-08-01,Delivered,Bengaluru,Karnataka,Credit Card
+518,366,2025-08-29,Returned,Lucknow,Uttar Pradesh,Cash on Delivery
+519,185,2025-02-03,Delivered,Ahmedabad,Gujarat,Credit Card
+520,272,2025-10-20,Delivered,Kochi,Kerala,Credit Card
+521,237,2025-11-15,Delivered,Chennai,Tamil Nadu,Cash on Delivery
+522,599,2025-11-20,Cancelled,Lucknow,Uttar Pradesh,Credit Card
+523,288,2025-07-27,Delivered,Delhi,Delhi,Net Banking
+524,103,2025-05-11,Delivered,Bengaluru,Karnataka,Debit Card
+525,323,2025-06-07,Delivered,Jaipur,Rajasthan,Credit Card
+526,637,2025-03-14,Delivered,Mumbai,Maharashtra,Debit Card
+527,393,2025-04-28,Cancelled,Jaipur,Rajasthan,Cash on Delivery
+528,326,2025-04-14,Delivered,,West Bengal,Net Banking
+529,638,2025-03-13,Delivered,Nagpur,Maharashtra,Credit Card
+530,512,2025-04-26,Delivered,Chennai,Tamil Nadu,Cash on Delivery
+531,449,2025-09-24,Delivered,Lucknow,Uttar Pradesh,Net Banking
+532,688,2025-12-18,Delivered,Lucknow,Uttar Pradesh,Debit Card
+533,586,2025-09-07,Delivered,Kochi,Kerala,Cash on Delivery
+534,551,2025-01-30,Delivered,Hyderabad,Telangana,Cash on Delivery
+535,597,2025-12-07,Delivered,Mumbai,Maharashtra,Cash on Delivery
+536,418,2025-09-25,Delivered,Jaipur,Rajasthan,UPI
+537,212,2025-05-08,Delivered,Mumbai,Maharashtra,Debit Card
+538,504,2025-06-14,Delivered,Lucknow,Uttar Pradesh,UPI
+539,456,2025-04-06,Delivered,Bengaluru,Karnataka,Debit Card
+540,235,2025-12-08,Delivered,Kolkata,West Bengal,Cash on Delivery
+541,595,2025-02-23,Delivered,Bengaluru,Karnataka,Credit Card
+542,190,2025-12-27,Delivered,Kolkata,West Bengal,UPI
+543,110,2025-07-24,Delivered,Mumbai,Maharashtra,Debit Card
+544,27,2025-12-23,Delivered,Kolkata,West Bengal,Credit Card
+545,1,2025-11-23,Delivered,Kochi,Kerala,Debit Card
+546,339,2025-11-29,Delivered,Ahmedabad,Gujarat,Cash on Delivery
+547,150,2025-11-11,Delivered,Pune,Maharashtra,Credit Card
+548,325,2025-04-01,Delivered,Lucknow,Uttar Pradesh,Credit Card
+549,279,2025-12-06,Delivered,Delhi,Delhi,Cash on Delivery
+550,285,2025-02-19,Delivered,Chennai,Tamil Nadu,Net Banking
+551,252,2025-12-05,Delivered,Mumbai,Maharashtra,Debit Card
+552,560,2025-11-07,Delivered,Mumbai,Maharashtra,Net Banking
+553,398,2025-12-23,Delivered,Kolkata,West Bengal,Net Banking
+554,512,2025-05-30,Cancelled,Kolkata,West Bengal,Debit Card
+555,635,2025-10-20,Returned,Mumbai,Maharashtra,Net Banking
+556,659,2025-01-23,Delivered,Bengaluru,Karnataka,Credit Card
+557,166,2025-04-01,Cancelled,Delhi,Delhi,Cash on Delivery
+558,261,2025-05-20,Delivered,Ahmedabad,Gujarat,Net Banking
+559,444,2025-05-10,Delivered,Jaipur,Rajasthan,Credit Card
+560,24,2025-12-07,Delivered,Chennai,Tamil Nadu,Credit Card
+561,585,2025-01-19,Delivered,Jaipur,Rajasthan,Net Banking
+562,526,2025-08-13,Delivered,Delhi,Delhi,Credit Card
+563,137,2025-05-30,Delivered,Delhi,Delhi,Net Banking
+564,556,2025-12-06,Delivered,Hyderabad,Telangana,Cash on Delivery
+565,360,2025-01-20,Returned,Nagpur,Maharashtra,UPI
+566,327,2025-11-15,Delivered,Ahmedabad,Gujarat,UPI
+567,241,2025-12-18,Delivered,Jaipur,Rajasthan,Debit Card
+568,100,2025-03-15,Delivered,Chennai,Tamil Nadu,Net Banking
+569,532,2025-09-29,Delivered,Mumbai,Maharashtra,Cash on Delivery
+570,646,2025-08-29,Delivered,Pune,Maharashtra,Net Banking
+571,115,2025-12-18,Delivered,Hyderabad,Telangana,Credit Card
+572,691,2025-11-10,Cancelled,Nagpur,Maharashtra,UPI
+573,367,2025-12-30,Delivered,Delhi,Delhi,Debit Card
+574,54,2025-12-06,Delivered,Chennai,Tamil Nadu,Cash on Delivery
+575,538,2025-12-06,Returned,Ahmedabad,Gujarat,Net Banking
+576,175,2025-07-05,Returned,Lucknow,Uttar Pradesh,Cash on Delivery
+577,189,2025-03-18,Delivered,Ahmedabad,Gujarat,UPI
+578,552,2025-07-06,Delivered,Jaipur,Rajasthan,UPI
+579,2,2025-08-10,Delivered,Chennai,Tamil Nadu,UPI
+580,337,2025-12-14,Delivered,Kochi,Kerala,Net Banking
+581,352,2025-11-05,Delivered,Delhi,Delhi,Credit Card
+582,248,2025-11-13,Delivered,Nagpur,Maharashtra,Cash on Delivery
+583,250,2025-12-23,Delivered,Delhi,Delhi,Cash on Delivery
+584,533,2025-11-26,Delivered,Lucknow,Uttar Pradesh,Credit Card
+585,566,2025-01-31,Delivered,Kochi,Kerala,UPI
+586,349,2025-09-13,Cancelled,Mumbai,Maharashtra,UPI
+587,159,2025-01-13,Delivered,Jaipur,Rajasthan,Debit Card
+588,284,2025-11-13,Delivered,Bengaluru,Karnataka,Credit Card
+589,250,2025-04-21,Delivered,Delhi,Delhi,Debit Card
+590,194,2025-11-03,Delivered,Kolkata,West Bengal,Credit Card
+591,123,2025-09-01,Delivered,Pune,Maharashtra,Credit Card
+592,383,2025-12-03,Returned,Kolkata,West Bengal,Net Banking
+593,681,2025-09-05,Delivered,Hyderabad,Telangana,Credit Card
+594,360,2025-11-25,Cancelled,Nagpur,Maharashtra,Debit Card
+595,196,2025-03-17,Delivered,Delhi,Delhi,UPI
+596,2,2025-06-11,Delivered,Chennai,Tamil Nadu,Net Banking
+597,469,2025-11-07,Delivered,Chennai,Tamil Nadu,Debit Card
+598,453,2025-07-22,Delivered,Pune,Maharashtra,Credit Card
+599,21,2025-11-04,Delivered,Bengaluru,Karnataka,Credit Card
+600,12,2025-03-12,Delivered,Pune,Maharashtra,UPI
+601,162,2025-01-04,Delivered,Delhi,Delhi,Cash on Delivery
+602,150,2025-12-11,Delivered,Pune,Maharashtra,Credit Card
+603,232,2025-04-05,Delivered,Chennai,Tamil Nadu,Credit Card
+604,344,2025-04-22,Returned,Bengaluru,Karnataka,Credit Card
+605,444,2025-12-08,Delivered,Jaipur,Rajasthan,UPI
+606,43,2025-02-19,Delivered,Kochi,Kerala,Debit Card
+607,8,2025-05-15,Delivered,Jaipur,Rajasthan,UPI
+608,289,2025-10-13,Delivered,,Uttar Pradesh,UPI
+609,137,2025-07-13,Delivered,Delhi,Delhi,UPI
+610,326,2025-01-01,Delivered,Hyderabad,Telangana,UPI
+611,656,2025-07-28,Returned,Lucknow,Uttar Pradesh,Cash on Delivery
+612,212,2025-12-03,Delivered,Kochi,Kerala,Credit Card
+613,179,2025-10-06,Cancelled,Ahmedabad,Gujarat,Credit Card
+614,552,2025-12-17,Delivered,Jaipur,Rajasthan,Net Banking
+615,262,2025-09-16,Delivered,Hyderabad,Telangana,Credit Card
+616,31,2025-12-31,Returned,Lucknow,Uttar Pradesh,Credit Card
+617,54,2025-12-15,Delivered,Chennai,Tamil Nadu,Net Banking
+618,615,2025-01-18,Cancelled,Ahmedabad,Gujarat,Cash on Delivery
+619,373,2025-12-24,Delivered,Nagpur,Maharashtra,Credit Card
+620,641,2025-01-03,Cancelled,Jaipur,Rajasthan,Credit Card
+621,56,2025-03-01,Delivered,Nagpur,Maharashtra,Cash on Delivery
+622,153,2025-07-08,Delivered,Nagpur,Maharashtra,Debit Card
+623,176,2025-11-17,Delivered,Delhi,Delhi,Credit Card
+624,396,2025-11-03,Delivered,Mumbai,Maharashtra,Net Banking
+625,609,2025-12-27,Delivered,Mumbai,Maharashtra,Credit Card
+626,435,2025-12-19,Delivered,Mumbai,Maharashtra,Net Banking
+627,146,2025-08-10,Delivered,Kolkata,West Bengal,Debit Card
+628,610,2025-11-22,Delivered,Pune,Maharashtra,UPI
+629,590,2025-11-06,Delivered,Kolkata,West Bengal,Cash on Delivery
+630,325,2025-12-11,Delivered,Lucknow,Uttar Pradesh,Debit Card
+631,274,2025-11-10,Delivered,Hyderabad,Telangana,Credit Card
+632,137,2025-05-30,Delivered,Delhi,Delhi,Debit Card
+633,27,2025-12-07,Cancelled,Kolkata,West Bengal,Net Banking
+634,92,2025-11-28,Delivered,Jaipur,Rajasthan,UPI
+635,526,2025-01-06,Returned,Delhi,Delhi,Cash on Delivery
+636,254,2025-12-10,Delivered,Jaipur,Rajasthan,Debit Card
+637,582,2025-11-15,Delivered,Ahmedabad,Gujarat,Net Banking
+638,389,2025-12-25,Delivered,Bengaluru,Karnataka,Cash on Delivery
+639,615,2025-12-24,Delivered,Ahmedabad,Gujarat,Debit Card
+640,656,2025-10-16,Delivered,Lucknow,Uttar Pradesh,UPI
+641,322,2025-11-28,Returned,Ahmedabad,Gujarat,Debit Card
+642,28,2025-05-09,Returned,Jaipur,Rajasthan,Debit Card
+643,387,2025-04-01,Cancelled,Kochi,Kerala,Cash on Delivery
+644,156,2025-06-16,Delivered,Mumbai,Maharashtra,UPI
+645,299,2025-11-12,Delivered,Hyderabad,Telangana,UPI
+646,546,2025-09-26,Delivered,Bengaluru,Karnataka,Net Banking
+647,275,2025-06-02,Delivered,Chennai,Tamil Nadu,Credit Card
+648,249,2025-11-26,Cancelled,Chennai,Tamil Nadu,Credit Card
+649,473,2025-09-03,Delivered,Pune,Maharashtra,UPI
+650,30,2025-06-27,Delivered,Kolkata,West Bengal,UPI
+651,14,2025-08-14,Delivered,Hyderabad,Telangana,Cash on Delivery
+652,172,2025-03-19,Delivered,Nagpur,Maharashtra,Credit Card
+653,676,2025-11-30,Delivered,Lucknow,Uttar Pradesh,Debit Card
+654,426,2025-08-11,Delivered,Chennai,Tamil Nadu,Net Banking
+655,628,2025-02-20,Delivered,Bengaluru,Karnataka,Debit Card
+656,693,2025-12-01,Delivered,Pune,Maharashtra,Net Banking
+657,88,2025-02-21,Delivered,Mumbai,Maharashtra,Net Banking
+658,578,2025-03-19,Delivered,Hyderabad,Telangana,Debit Card
+659,421,2025-11-01,Delivered,Kochi,Kerala,Net Banking
+660,414,2025-12-09,Delivered,Hyderabad,Telangana,UPI
+661,26,2025-09-18,Delivered,Nagpur,Maharashtra,Debit Card
+662,620,2025-05-25,Delivered,Chennai,Tamil Nadu,Net Banking
+663,185,2025-11-11,Delivered,Ahmedabad,Gujarat,Debit Card
+664,214,2025-10-18,Delivered,Nagpur,Maharashtra,Debit Card
+665,633,2025-04-14,Delivered,Mumbai,Maharashtra,Debit Card
+666,324,2025-11-26,Delivered,Delhi,Delhi,UPI
+667,601,2025-02-02,Delivered,Jaipur,Rajasthan,Credit Card
+668,490,2025-01-21,Cancelled,Ahmedabad,Gujarat,Debit Card
+669,78,2025-11-25,Delivered,Jaipur,Rajasthan,Net Banking
+670,116,2025-11-11,Delivered,Hyderabad,Telangana,UPI
+671,178,2025-10-01,Delivered,Jaipur,Rajasthan,Debit Card
+672,595,2025-12-22,Delivered,Bengaluru,Karnataka,UPI
+673,571,2025-08-10,Delivered,Jaipur,Rajasthan,Cash on Delivery
+674,392,2025-11-29,Delivered,Ahmedabad,Gujarat,Debit Card
+675,526,2025-10-10,Returned,Delhi,Delhi,Credit Card
+676,54,2025-07-14,Delivered,Chennai,Tamil Nadu,Debit Card
+677,340,2025-02-21,Delivered,Lucknow,Uttar Pradesh,Debit Card
+678,303,2025-04-29,Delivered,Ahmedabad,Gujarat,UPI
+679,622,2025-01-21,Delivered,Mumbai,Maharashtra,Credit Card
+680,425,2025-04-05,Delivered,Lucknow,Uttar Pradesh,Net Banking
+681,196,2025-12-16,Delivered,Delhi,Delhi,Credit Card
+682,91,2025-12-28,Delivered,Hyderabad,Telangana,Debit Card
+683,289,2025-11-08,Delivered,Lucknow,Uttar Pradesh,UPI
+684,359,2025-07-30,Delivered,Delhi,Delhi,Credit Card
+685,66,2025-11-01,Delivered,Delhi,Delhi,UPI
+686,451,2025-08-31,Delivered,Nagpur,Maharashtra,Debit Card
+687,33,2025-09-02,Delivered,Chennai,Tamil Nadu,Credit Card
+688,34,2025-03-16,Returned,Mumbai,Maharashtra,Net Banking
+689,392,2025-09-29,Delivered,Kochi,Kerala,Cash on Delivery
+690,617,2025-11-05,Delivered,Nagpur,Maharashtra,Credit Card
+691,619,2025-04-29,Delivered,Bengaluru,Karnataka,Cash on Delivery
+692,360,2025-11-14,Delivered,Nagpur,Maharashtra,Cash on Delivery
+693,615,2025-04-18,Delivered,Ahmedabad,Gujarat,Debit Card
+694,340,2025-12-23,Delivered,Lucknow,Uttar Pradesh,UPI
+695,404,2025-12-23,Delivered,Bengaluru,Karnataka,Credit Card
+696,414,2025-11-13,Delivered,Hyderabad,Telangana,Credit Card
+697,567,2025-03-20,Returned,Nagpur,Maharashtra,UPI
+698,95,2025-11-07,Delivered,Kolkata,West Bengal,Cash on Delivery
+699,275,2025-09-30,Delivered,Chennai,Tamil Nadu,Net Banking
+700,360,2025-11-19,Cancelled,Nagpur,Maharashtra,UPI
+701,684,2025-10-06,Delivered,Mumbai,Maharashtra,Cash on Delivery
+702,264,2025-04-16,Delivered,Kochi,Kerala,Credit Card
+703,326,2025-03-26,Cancelled,Kolkata,West Bengal,UPI
+704,639,2025-08-13,Delivered,Jaipur,Rajasthan,Cash on Delivery
+705,377,2025-11-06,Delivered,Ahmedabad,Gujarat,Net Banking
+706,585,2025-09-17,Delivered,Jaipur,Rajasthan,UPI
+707,652,2025-06-24,Delivered,Chennai,Tamil Nadu,UPI
+708,630,2025-07-12,Delivered,Kolkata,West Bengal,Net Banking
+709,52,2025-08-24,Delivered,Pune,Maharashtra,Cash on Delivery
+710,375,2025-11-08,Delivered,Pune,Maharashtra,Cash on Delivery
+711,443,2025-12-12,Returned,Chennai,Tamil Nadu,Cash on Delivery
+712,204,2025-12-17,Returned,Ahmedabad,Gujarat,UPI
+713,550,2025-01-12,Returned,Ahmedabad,Gujarat,Cash on Delivery
+714,534,2025-03-10,Delivered,Nagpur,Maharashtra,UPI
+715,164,2025-05-03,Delivered,Kochi,Kerala,Credit Card
+716,151,2025-02-16,Delivered,Kochi,Kerala,Cash on Delivery
+717,656,2025-02-12,Delivered,Lucknow,Uttar Pradesh,Cash on Delivery
+718,257,2025-10-09,Delivered,Hyderabad,Telangana,Debit Card
+719,264,2025-11-02,Delivered,Kochi,Kerala,Net Banking
+720,381,2025-01-14,Cancelled,Kochi,Kerala,Cash on Delivery
+721,653,2025-01-22,Delivered,Kochi,Kerala,Credit Card
+722,356,2025-01-24,Delivered,Chennai,Tamil Nadu,Net Banking
+723,250,2025-01-29,Delivered,Delhi,Delhi,Cash on Delivery
+724,338,2025-04-19,Returned,Jaipur,Rajasthan,Debit Card
+725,450,2025-09-06,Delivered,Jaipur,Rajasthan,Debit Card
+726,13,2025-08-18,Delivered,Bengaluru,Karnataka,Cash on Delivery
+727,637,2025-08-20,Delivered,Mumbai,Maharashtra,Cash on Delivery
+728,513,2025-11-19,Delivered,Kochi,Kerala,Net Banking
+729,88,2025-10-21,Delivered,Mumbai,Maharashtra,Cash on Delivery
+730,353,2025-03-17,Returned,Kochi,Kerala,Cash on Delivery
+731,404,2025-04-08,Returned,Bengaluru,Karnataka,Net Banking
+732,653,2025-03-21,Delivered,Kochi,Kerala,UPI
+733,248,2025-04-27,Delivered,Nagpur,Maharashtra,Debit Card
+734,350,2025-12-23,Delivered,Hyderabad,Telangana,Credit Card
+735,136,2025-12-21,Delivered,Ahmedabad,Gujarat,Credit Card
+736,633,2025-06-09,Delivered,Mumbai,Maharashtra,Credit Card
+737,589,2025-03-01,Delivered,Kolkata,West Bengal,Cash on Delivery
+738,189,2025-01-28,Delivered,Ahmedabad,Gujarat,Cash on Delivery
+739,460,2025-11-02,Returned,Hyderabad,Telangana,Credit Card
+740,5,2025-11-05,Delivered,Hyderabad,Telangana,Cash on Delivery
+741,425,2025-07-25,Cancelled,Lucknow,Uttar Pradesh,UPI
+742,615,2025-12-19,Delivered,Ahmedabad,Gujarat,Debit Card
+743,373,2025-12-26,Returned,Nagpur,Maharashtra,Debit Card
+744,77,2025-07-23,Delivered,Bengaluru,Karnataka,Net Banking
+745,599,2025-11-12,Delivered,Lucknow,Uttar Pradesh,Cash on Delivery
+746,534,2025-12-18,Delivered,Nagpur,Maharashtra,Credit Card
+747,658,2025-10-21,Delivered,Kolkata,West Bengal,Cash on Delivery
+748,635,2025-03-02,Delivered,Mumbai,Maharashtra,Net Banking
+749,469,2025-01-08,Delivered,Chennai,Tamil Nadu,UPI
+750,464,2025-06-17,Delivered,Kolkata,West Bengal,Debit Card
+751,303,2025-02-23,Delivered,Ahmedabad,Gujarat,Credit Card
+752,435,2025-11-08,Delivered,Mumbai,Maharashtra,UPI
+753,256,2025-12-24,Returned,Delhi,Delhi,Cash on Delivery
+754,683,2025-12-28,Delivered,Mumbai,Maharashtra,Credit Card
+755,123,2025-03-20,Delivered,Pune,Maharashtra,Net Banking
+756,665,2025-05-02,Delivered,Jaipur,Rajasthan,Debit Card
+757,227,2025-12-18,Delivered,Kolkata,West Bengal,Net Banking
+758,617,2025-04-24,Delivered,Nagpur,Maharashtra,UPI
+759,624,2025-06-22,Cancelled,Delhi,Delhi,Net Banking
+760,410,2025-09-23,Delivered,Mumbai,Maharashtra,Net Banking
+761,103,2025-03-26,Delivered,Bengaluru,Karnataka,UPI
+762,303,2025-12-10,Delivered,Ahmedabad,Gujarat,Net Banking
+763,12,2025-08-31,Returned,Pune,Maharashtra,Credit Card
+764,637,2025-10-13,Delivered,Mumbai,Maharashtra,Cash on Delivery
+765,690,2025-12-11,Delivered,Kolkata,West Bengal,Cash on Delivery
+766,110,2025-12-12,Cancelled,Mumbai,Maharashtra,Debit Card
+767,225,2025-09-25,Delivered,Kochi,Kerala,Debit Card
+768,189,2025-11-23,Delivered,Ahmedabad,Gujarat,Credit Card
+769,297,2025-12-24,Delivered,Nagpur,Maharashtra,UPI
+770,30,2025-09-08,Delivered,Kolkata,West Bengal,Net Banking
+771,653,2025-11-10,Cancelled,Kochi,Kerala,Cash on Delivery
+772,110,2025-11-07,Delivered,Mumbai,Maharashtra,Net Banking
+773,420,2025-01-15,Delivered,Kochi,Kerala,Cash on Delivery
+774,497,2025-10-27,Cancelled,Ahmedabad,Gujarat,Debit Card
+775,76,2025-09-08,Returned,Kolkata,West Bengal,Debit Card
+776,86,2025-10-26,Delivered,Ahmedabad,Gujarat,Credit Card
+777,274,2025-02-27,Delivered,Hyderabad,Telangana,Cash on Delivery
+778,237,2025-12-27,Delivered,Chennai,Tamil Nadu,Cash on Delivery
+779,290,2025-01-21,Delivered,Kochi,Kerala,UPI
+780,472,2025-02-17,Delivered,Jaipur,Rajasthan,Cash on Delivery
+781,5,2025-09-19,Delivered,Hyderabad,Telangana,Net Banking
+782,588,2025-11-21,Returned,Chennai,Tamil Nadu,Net Banking
+783,466,2025-11-12,Delivered,Kochi,Kerala,Debit Card
+784,486,2025-12-30,Delivered,Mumbai,Maharashtra,Net Banking
+785,474,2025-12-19,Delivered,Kolkata,West Bengal,Cash on Delivery
+786,3,2025-12-09,Delivered,Nagpur,Maharashtra,Credit Card
+787,674,2025-12-13,Delivered,Jaipur,Rajasthan,UPI
+788,673,2025-12-25,Delivered,Hyderabad,Telangana,Credit Card
+789,66,2025-07-05,Cancelled,Delhi,Delhi,Net Banking
+790,197,2025-12-17,Delivered,Kolkata,West Bengal,Debit Card
+791,11,2025-07-27,Cancelled,Lucknow,Uttar Pradesh,Debit Card
+792,455,2025-11-03,Delivered,,Karnataka,UPI
+793,138,2025-11-26,Delivered,Delhi,Delhi,Cash on Delivery
+794,651,2025-07-07,Delivered,,Kerala,UPI
+795,292,2025-11-04,Delivered,Ahmedabad,Gujarat,Debit Card
+796,582,2025-12-07,Delivered,Ahmedabad,Gujarat,Net Banking
+797,556,2025-12-22,Delivered,Ahmedabad,Gujarat,Credit Card
+798,676,2025-11-17,Returned,Lucknow,Uttar Pradesh,Cash on Delivery
+799,160,2025-05-15,Delivered,Chennai,Tamil Nadu,Debit Card
+800,670,2025-06-12,Delivered,Hyderabad,Telangana,Cash on Delivery
+801,561,2025-09-12,Returned,Kolkata,West Bengal,UPI
+802,627,2025-12-24,Delivered,Mumbai,Maharashtra,Cash on Delivery
+803,383,2025-12-05,Delivered,Kolkata,West Bengal,Cash on Delivery
+804,325,2025-05-13,Returned,Lucknow,Uttar Pradesh,Credit Card
+805,183,2025-10-03,Cancelled,Chennai,Tamil Nadu,Cash on Delivery
+806,53,2025-11-29,Delivered,Pune,Maharashtra,UPI
+807,287,2025-09-13,Delivered,Lucknow,Uttar Pradesh,Cash on Delivery
+808,217,2025-11-23,Delivered,Chennai,Tamil Nadu,UPI
+809,562,2025-10-10,Delivered,Chennai,Tamil Nadu,Cash on Delivery
+810,512,2025-12-04,Delivered,Bengaluru,Karnataka,Net Banking
+811,285,2025-07-17,Delivered,Chennai,Tamil Nadu,Net Banking
+812,479,2025-04-27,Returned,Ahmedabad,Gujarat,Cash on Delivery
+813,98,2025-11-24,Delivered,Pune,Maharashtra,Credit Card
+814,167,2025-07-25,Delivered,Delhi,Delhi,Debit Card
+815,1,2025-08-08,Delivered,Kochi,Kerala,Debit Card
+816,569,2025-12-19,Delivered,Lucknow,Uttar Pradesh,Debit Card
+817,312,2025-01-02,Delivered,Mumbai,Maharashtra,Net Banking
+818,110,2025-10-03,Delivered,Mumbai,Maharashtra,Cash on Delivery
+819,497,2025-06-17,Cancelled,Ahmedabad,Gujarat,Cash on Delivery
+820,240,2025-01-23,Delivered,Delhi,Delhi,UPI
+821,646,2025-07-22,Delivered,Pune,Maharashtra,UPI
+822,182,2025-03-11,Delivered,Ahmedabad,Gujarat,Net Banking
+823,575,2025-05-15,Delivered,Bengaluru,Karnataka,Net Banking
+824,293,2025-11-08,Delivered,Chennai,Tamil Nadu,Debit Card
+825,528,2025-12-11,Returned,Jaipur,Rajasthan,Credit Card
+826,539,2025-07-19,Delivered,Ahmedabad,Gujarat,UPI
+827,112,2025-05-09,Delivered,Chennai,Tamil Nadu,UPI
+828,48,2025-01-07,Delivered,Chennai,Tamil Nadu,Credit Card
+829,170,2025-07-17,Delivered,Nagpur,Maharashtra,Credit Card
+830,692,2025-11-09,Delivered,Hyderabad,Telangana,Debit Card
+831,528,2025-11-13,Delivered,Jaipur,Rajasthan,Credit Card
+832,125,2025-09-09,Delivered,Kochi,Kerala,Net Banking
+833,466,2025-03-27,Delivered,Kochi,Kerala,Cash on Delivery
+834,45,2025-12-01,Delivered,Bengaluru,Karnataka,UPI
+835,52,2025-12-16,Delivered,Pune,Maharashtra,Credit Card
+836,16,2025-04-28,Cancelled,Bengaluru,Karnataka,Cash on Delivery
+837,458,2025-11-28,Returned,Chennai,Tamil Nadu,Debit Card
+838,580,2025-08-19,Delivered,Nagpur,Maharashtra,Debit Card
+839,453,2025-09-15,Delivered,Pune,Maharashtra,Cash on Delivery
+840,138,2025-09-04,Delivered,Delhi,Delhi,Net Banking
+841,343,2025-07-15,Delivered,Bengaluru,Karnataka,Cash on Delivery
+842,594,2025-11-08,Delivered,Kochi,Kerala,Cash on Delivery
+843,189,2025-07-17,Delivered,Ahmedabad,Gujarat,Cash on Delivery
+844,66,2025-12-29,Cancelled,Delhi,Delhi,Cash on Delivery
+845,175,2025-12-20,Delivered,Ahmedabad,Gujarat,Debit Card
+846,621,2025-12-29,Delivered,Nagpur,Maharashtra,Cash on Delivery
+847,673,2025-01-08,Delivered,Hyderabad,Telangana,Debit Card
+848,220,2025-11-28,Delivered,Lucknow,Uttar Pradesh,Net Banking
+849,404,2025-04-03,Delivered,Bengaluru,Karnataka,Net Banking
+850,599,2025-11-06,Delivered,Lucknow,Uttar Pradesh,Cash on Delivery
+851,690,2025-07-04,Delivered,Kolkata,West Bengal,UPI
+852,175,2025-03-16,Returned,Jaipur,Rajasthan,Debit Card
+853,35,2025-01-24,Delivered,Nagpur,Maharashtra,Credit Card
+854,592,2025-12-27,Cancelled,Bengaluru,Karnataka,Debit Card
+855,443,2025-11-27,Returned,Chennai,Tamil Nadu,Cash on Delivery
+856,222,2025-01-23,Delivered,Kochi,Kerala,UPI
+857,90,2025-01-03,Delivered,Chennai,Tamil Nadu,Debit Card
+858,136,2025-12-12,Delivered,Ahmedabad,Gujarat,Net Banking
+859,117,2025-12-28,Delivered,Mumbai,Maharashtra,UPI
+860,586,2025-12-17,Delivered,Kochi,Kerala,Debit Card
+861,152,2025-05-09,Delivered,Pune,Maharashtra,Debit Card
+862,463,2025-10-04,Delivered,Chennai,Tamil Nadu,Debit Card
+863,389,2025-01-05,Returned,Bengaluru,Karnataka,Debit Card
+864,73,2025-12-14,Delivered,Bengaluru,Karnataka,Net Banking
+865,389,2025-12-08,Delivered,Bengaluru,Karnataka,UPI
+866,335,2025-06-23,Delivered,Ahmedabad,Gujarat,Net Banking
+867,451,2025-04-29,Returned,Nagpur,Maharashtra,Debit Card
+868,613,2025-01-07,Delivered,Chennai,Tamil Nadu,Credit Card
+869,497,2025-12-24,Delivered,Chennai,Tamil Nadu,Cash on Delivery
+870,253,2025-03-31,Delivered,Pune,Maharashtra,Cash on Delivery
+871,64,2025-10-08,Cancelled,Bengaluru,Karnataka,Net Banking
+872,452,2025-01-11,Delivered,Chennai,Tamil Nadu,Debit Card
+873,564,2025-12-08,Delivered,Ahmedabad,Gujarat,Credit Card
+874,301,2025-08-04,Returned,Kolkata,West Bengal,Cash on Delivery
+875,271,2025-02-15,Delivered,Delhi,Delhi,Debit Card
+876,89,2025-11-11,Cancelled,Hyderabad,Telangana,Net Banking
+877,275,2025-03-24,Delivered,Chennai,Tamil Nadu,Credit Card
+878,42,2025-02-04,Delivered,Hyderabad,Telangana,Net Banking
+879,444,2025-02-27,Delivered,Jaipur,Rajasthan,Cash on Delivery
+880,28,2025-12-27,Returned,Jaipur,Rajasthan,Credit Card
+881,104,2025-01-28,Delivered,Mumbai,Maharashtra,Credit Card
+882,633,2025-01-31,Cancelled,Mumbai,Maharashtra,Cash on Delivery
+883,207,2025-03-07,Delivered,Kolkata,West Bengal,Credit Card
+884,249,2025-12-27,Delivered,Chennai,Tamil Nadu,Credit Card
+885,322,2025-08-22,Delivered,Ahmedabad,Gujarat,Credit Card
+886,59,2025-12-31,Delivered,Jaipur,Rajasthan,Debit Card
+887,324,2025-07-08,Cancelled,Kolkata,West Bengal,Net Banking
+888,622,2025-04-07,Delivered,Mumbai,Maharashtra,Credit Card
+889,189,2025-06-14,Delivered,Ahmedabad,Gujarat,Cash on Delivery
+890,615,2025-11-13,Delivered,Ahmedabad,Gujarat,UPI
+891,553,2025-11-16,Delivered,Bengaluru,Karnataka,Credit Card
+892,498,2025-07-09,Delivered,Pune,Maharashtra,Debit Card
+893,295,2025-05-19,Delivered,Pune,Maharashtra,Credit Card
+894,544,2025-11-22,Delivered,Lucknow,Uttar Pradesh,Cash on Delivery
+895,197,2025-05-16,Delivered,Kolkata,West Bengal,Net Banking
+896,256,2025-07-31,Delivered,Delhi,Delhi,UPI
+897,652,2025-05-24,Delivered,Chennai,Tamil Nadu,Debit Card
+898,512,2025-11-30,Delivered,Bengaluru,Karnataka,Credit Card
+899,272,2025-11-01,Delivered,Kochi,Kerala,Debit Card
+900,125,2025-07-08,Cancelled,Kochi,Kerala,Net Banking
+901,64,2025-06-13,Returned,Bengaluru,Karnataka,Credit Card
+902,303,2025-02-14,Delivered,Ahmedabad,Gujarat,Credit Card
+903,500,2025-01-14,Delivered,Bengaluru,Karnataka,Net Banking
+904,264,2025-04-20,Delivered,Mumbai,Maharashtra,Net Banking
+905,456,2025-12-25,Cancelled,Bengaluru,Karnataka,Net Banking
+906,11,2025-09-19,Delivered,Chennai,Tamil Nadu,Credit Card
+907,392,2025-09-10,Delivered,Ahmedabad,Gujarat,Debit Card
+908,138,2025-11-21,Delivered,Delhi,Delhi,Cash on Delivery
+909,149,2025-07-10,Delivered,Nagpur,Maharashtra,Net Banking
+910,151,2025-03-04,Delivered,Kochi,Kerala,Credit Card
+911,89,2025-07-17,Delivered,Hyderabad,Telangana,Debit Card
+912,437,2025-12-11,Delivered,Bengaluru,Karnataka,Cash on Delivery
+913,188,2025-02-06,Delivered,Delhi,Delhi,Debit Card
+914,350,2025-04-21,Cancelled,Lucknow,Uttar Pradesh,Credit Card
+915,7,2025-12-11,Returned,Kochi,Kerala,Debit Card
+916,628,2025-06-28,Delivered,Bengaluru,Karnataka,Debit Card
+917,47,2025-08-19,Delivered,Bengaluru,Karnataka,UPI
+918,553,2025-04-06,Delivered,Ahmedabad,Gujarat,Cash on Delivery
+919,115,2025-06-14,Returned,Hyderabad,Telangana,Debit Card
+920,250,2025-09-26,Delivered,Delhi,Delhi,Net Banking
+921,520,2025-11-05,Delivered,Pune,Maharashtra,Cash on Delivery
+922,230,2025-12-04,Returned,Kochi,Kerala,Cash on Delivery
+923,302,2025-09-25,Cancelled,Hyderabad,Telangana,Cash on Delivery
+924,615,2025-12-11,Delivered,Ahmedabad,Gujarat,Credit Card
+925,383,2025-04-15,Delivered,Kolkata,West Bengal,Cash on Delivery
+926,371,2025-05-14,Delivered,Ahmedabad,Gujarat,Net Banking
+927,17,2025-12-10,Delivered,Kochi,Kerala,Debit Card
+928,344,2025-01-10,Delivered,Bengaluru,Karnataka,Net Banking
+929,443,2025-02-15,Delivered,Chennai,Tamil Nadu,Credit Card
+930,652,2025-04-03,Delivered,Chennai,Tamil Nadu,Credit Card
+931,386,2025-04-21,Cancelled,Kochi,Kerala,Debit Card
+932,694,2025-12-10,Delivered,Ahmedabad,Gujarat,Net Banking
+933,64,2025-04-29,Delivered,Bengaluru,Karnataka,Credit Card
+934,358,2025-01-09,Delivered,Kolkata,West Bengal,Debit Card
+935,657,2025-10-07,Delivered,Nagpur,Maharashtra,Net Banking
+936,389,2025-11-04,Delivered,Mumbai,Maharashtra,Credit Card
+937,570,2025-10-27,Delivered,Kochi,Kerala,Debit Card
+938,573,2025-02-21,Delivered,Ahmedabad,Gujarat,Net Banking
+939,526,2025-11-11,Delivered,Delhi,Delhi,Net Banking
+940,354,2025-06-30,Delivered,Chennai,Tamil Nadu,UPI
+941,326,2025-11-24,Delivered,Kolkata,West Bengal,Net Banking
+942,116,2025-01-01,Delivered,Hyderabad,Telangana,Net Banking
+943,616,2025-05-19,Delivered,Bengaluru,Karnataka,Net Banking
+944,99,2025-11-16,Delivered,Kochi,Kerala,Credit Card
+945,585,2025-03-29,Delivered,Jaipur,Rajasthan,Net Banking
+946,21,2025-12-30,Delivered,Bengaluru,Karnataka,Cash on Delivery
+947,537,2025-12-03,Delivered,Nagpur,Maharashtra,Credit Card
+948,33,2025-12-31,Delivered,Kochi,Kerala,Cash on Delivery
+949,526,2025-10-06,Cancelled,Delhi,Delhi,Cash on Delivery
+950,106,2025-09-12,Delivered,Chennai,Tamil Nadu,Net Banking
+951,100,2025-08-12,Returned,Chennai,Tamil Nadu,UPI
+952,575,2025-12-02,Delivered,Lucknow,Uttar Pradesh,Cash on Delivery
+953,227,2025-11-10,Delivered,Kolkata,West Bengal,Credit Card
+954,403,2025-01-11,Delivered,Pune,Maharashtra,Debit Card
+955,551,2025-11-21,Cancelled,Hyderabad,Telangana,Cash on Delivery
+956,556,2025-10-01,Delivered,Mumbai,Maharashtra,Credit Card
+957,429,2025-12-11,Delivered,Jaipur,Rajasthan,UPI
+958,322,2025-11-30,Cancelled,Ahmedabad,Gujarat,Credit Card
+959,415,2025-12-29,Delivered,Nagpur,Maharashtra,Net Banking
+960,190,2025-07-09,Delivered,Kolkata,West Bengal,Cash on Delivery
+961,539,2025-07-29,Delivered,Ahmedabad,Gujarat,Net Banking
+962,30,2025-06-03,Delivered,Kolkata,West Bengal,Credit Card
+963,222,2025-10-31,Returned,Kochi,Kerala,Net Banking
+964,145,2025-01-12,Delivered,Pune,Maharashtra,Debit Card
+965,237,2025-11-13,Delivered,Chennai,Tamil Nadu,Credit Card
+966,310,2025-10-01,Returned,Jaipur,Rajasthan,Debit Card
+967,195,2025-07-23,Delivered,Jaipur,Rajasthan,Credit Card
+968,530,2025-04-24,Delivered,Kochi,Kerala,Debit Card
+969,448,2025-02-24,Delivered,Kolkata,West Bengal,Net Banking
+970,601,2025-07-03,Delivered,Jaipur,Rajasthan,Cash on Delivery
+971,582,2025-05-31,Delivered,Ahmedabad,Gujarat,UPI
+972,372,2025-01-18,Delivered,Bengaluru,Karnataka,UPI
+973,170,2025-01-23,Delivered,Nagpur,Maharashtra,Net Banking
+974,130,2025-06-11,Delivered,Mumbai,Maharashtra,UPI
+975,325,2025-12-02,Delivered,Lucknow,Uttar Pradesh,Debit Card
+976,537,2025-12-24,Delivered,Nagpur,Maharashtra,Net Banking
+977,343,2025-12-16,Delivered,Bengaluru,Karnataka,Net Banking
+978,612,2025-06-14,Delivered,Kolkata,West Bengal,Credit Card
+979,552,2025-07-08,Cancelled,Jaipur,Rajasthan,Debit Card
+980,569,2025-06-01,Delivered,Lucknow,Uttar Pradesh,Cash on Delivery
+981,534,2025-02-05,Delivered,Nagpur,Maharashtra,Cash on Delivery
+982,266,2025-10-13,Delivered,Delhi,Delhi,UPI
+983,656,2025-12-15,Delivered,Lucknow,Uttar Pradesh,Credit Card
+984,361,2025-02-14,Delivered,Kochi,Kerala,Net Banking
+985,300,2025-06-24,Cancelled,Chennai,Tamil Nadu,Cash on Delivery
+986,609,2025-09-30,Delivered,Kochi,Kerala,Cash on Delivery
+987,441,2025-11-14,Delivered,Kolkata,West Bengal,Debit Card
+988,76,2025-11-20,Delivered,Kolkata,West Bengal,Cash on Delivery
+989,2,2025-05-17,Delivered,Chennai,Tamil Nadu,Credit Card
+990,593,2025-12-03,Delivered,Kolkata,West Bengal,Credit Card
+991,637,2025-10-23,Delivered,Mumbai,Maharashtra,Net Banking
+992,60,2025-01-07,Delivered,Delhi,Delhi,UPI
+993,604,2025-03-04,Delivered,Hyderabad,Telangana,Cash on Delivery
+994,652,2025-09-29,Delivered,Chennai,Tamil Nadu,Credit Card
+995,349,2025-08-09,Returned,Mumbai,Maharashtra,Net Banking
+996,175,2025-11-11,Delivered,Jaipur,Rajasthan,Net Banking
+997,2,2025-05-08,Delivered,Chennai,Tamil Nadu,Debit Card
+998,254,2025-12-28,Delivered,Jaipur,Rajasthan,Debit Card
+999,287,2025-09-18,Cancelled,Lucknow,Uttar Pradesh,Cash on Delivery
+1000,373,2025-12-22,Returned,Nagpur,Maharashtra,Cash on Delivery
+1001,295,2025-06-29,Delivered,Pune,Maharashtra,Net Banking
+1002,326,2025-10-11,Delivered,Bengaluru,Karnataka,Debit Card
+1003,5,2025-04-17,Delivered,Hyderabad,Telangana,Cash on Delivery
+1004,492,2025-04-24,Delivered,Kochi,Kerala,Net Banking
+1005,150,2025-12-31,Delivered,Pune,Maharashtra,Debit Card
+1006,432,2025-11-04,Delivered,Kolkata,West Bengal,Cash on Delivery
+1007,409,2025-10-28,Delivered,Lucknow,Uttar Pradesh,Cash on Delivery
+1008,67,2025-02-25,Delivered,Kochi,Kerala,Net Banking
+1009,252,2025-12-01,Cancelled,Mumbai,Maharashtra,UPI
+1010,529,2025-12-22,Delivered,Nagpur,Maharashtra,Credit Card
+1011,682,2025-11-29,Returned,Nagpur,Maharashtra,Cash on Delivery
+1012,72,2025-03-14,Delivered,Ahmedabad,Gujarat,Debit Card
+1013,325,2025-09-11,Delivered,Lucknow,Uttar Pradesh,UPI
+1014,69,2025-04-26,Delivered,Jaipur,Rajasthan,Credit Card
+1015,469,2025-12-07,Delivered,Chennai,Tamil Nadu,Net Banking
+1016,295,2025-06-03,Delivered,Pune,Maharashtra,Debit Card
+1017,425,2025-11-03,Delivered,Lucknow,Uttar Pradesh,Debit Card
+1018,325,2025-07-27,Delivered,Nagpur,Maharashtra,Net Banking
+1019,54,2025-12-04,Cancelled,Chennai,Tamil Nadu,Cash on Delivery
+1020,13,2025-04-28,Delivered,Bengaluru,Karnataka,UPI
+1021,138,2025-04-13,Returned,Delhi,Delhi,UPI
+1022,666,2025-12-04,Delivered,Hyderabad,Telangana,Net Banking
+1023,644,2025-11-18,Delivered,Lucknow,Uttar Pradesh,Net Banking
+1024,577,2025-10-05,Delivered,Lucknow,Uttar Pradesh,Cash on Delivery
+1025,193,2025-11-08,Delivered,Pune,Maharashtra,Cash on Delivery
+1026,116,2025-06-08,Delivered,Hyderabad,Telangana,UPI
+1027,256,2025-11-27,Delivered,Delhi,Delhi,Debit Card
+1028,263,2025-11-09,Delivered,Bengaluru,Karnataka,Credit Card
+1029,364,2025-11-30,Cancelled,Lucknow,Uttar Pradesh,Cash on Delivery
+1030,563,2025-07-23,Delivered,Hyderabad,Telangana,Credit Card
+1031,659,2025-11-09,Cancelled,Bengaluru,Karnataka,Credit Card
+1032,535,2025-01-06,Delivered,Pune,Maharashtra,Debit Card
+1033,415,2025-12-10,Delivered,Pune,Maharashtra,Credit Card
+1034,179,2025-10-01,Delivered,Ahmedabad,Gujarat,Net Banking
+1035,20,2025-07-24,Delivered,Mumbai,Maharashtra,Net Banking
+1036,85,2025-11-24,Delivered,Kolkata,West Bengal,UPI
+1037,297,2025-03-16,Cancelled,Nagpur,Maharashtra,Debit Card
+1038,391,2025-07-02,Returned,Hyderabad,Telangana,Debit Card
+1039,606,2025-01-02,Delivered,Hyderabad,Telangana,Debit Card
+1040,605,2025-01-10,Delivered,Kochi,Kerala,UPI
+1041,204,2025-05-23,Returned,Ahmedabad,Gujarat,UPI
+1042,145,2025-12-17,Returned,Pune,Maharashtra,Cash on Delivery
+1043,582,2025-08-01,Delivered,Ahmedabad,Gujarat,Net Banking
+1044,642,2025-11-12,Delivered,Hyderabad,Telangana,Net Banking
+1045,349,2025-12-01,Delivered,Jaipur,Rajasthan,Net Banking
+1046,21,2025-10-29,Cancelled,Bengaluru,Karnataka,Net Banking
+1047,671,2025-06-30,Delivered,Mumbai,Maharashtra,Debit Card
+1048,649,2025-04-20,Delivered,Chennai,Tamil Nadu,Cash on Delivery
+1049,148,2025-05-13,Delivered,Jaipur,Rajasthan,Debit Card
+1050,441,2025-06-02,Cancelled,Kolkata,West Bengal,Debit Card
+1051,534,2025-10-23,Returned,Nagpur,Maharashtra,UPI
+1052,19,2025-12-01,Delivered,Bengaluru,Karnataka,Credit Card
+1053,95,2025-10-27,Delivered,Kolkata,West Bengal,Cash on Delivery
+1054,301,2025-03-12,Delivered,Kolkata,West Bengal,Net Banking
+1055,661,2025-10-16,Delivered,,Telangana,Credit Card
+1056,237,2025-11-03,Returned,Chennai,Tamil Nadu,Debit Card
+1057,43,2025-11-05,Delivered,Kochi,Kerala,Cash on Delivery
+1058,113,2025-09-04,Delivered,Delhi,Delhi,Credit Card
+1059,400,2025-06-01,Delivered,Ahmedabad,Gujarat,Credit Card
+1060,527,2025-06-03,Delivered,Ahmedabad,Gujarat,Net Banking
+1061,517,2025-03-06,Delivered,Pune,Maharashtra,Net Banking
+1062,400,2025-05-13,Delivered,Ahmedabad,Gujarat,Cash on Delivery
+1063,548,2025-06-17,Delivered,Mumbai,Maharashtra,Debit Card
+1064,303,2025-05-04,Delivered,Ahmedabad,Gujarat,Net Banking
+1065,153,2025-12-19,Delivered,Nagpur,Maharashtra,Cash on Delivery
+1066,338,2025-11-28,Delivered,Hyderabad,Telangana,Credit Card
+1067,137,2025-09-11,Delivered,Delhi,Delhi,UPI
+1068,62,2025-11-14,Delivered,Chennai,Tamil Nadu,Net Banking
+1069,317,2025-11-13,Delivered,Bengaluru,Karnataka,Net Banking
+1070,199,2025-02-01,Delivered,Kolkata,West Bengal,Debit Card
+1071,247,2025-02-14,Delivered,Nagpur,Maharashtra,Debit Card
+1072,340,2025-08-03,Delivered,Lucknow,Uttar Pradesh,Cash on Delivery
+1073,231,2025-09-16,Delivered,Ahmedabad,Gujarat,Debit Card
+1074,94,2025-07-10,Delivered,Bengaluru,Karnataka,Debit Card
+1075,168,2025-11-11,Delivered,Delhi,Delhi,Debit Card
+1076,66,2025-12-27,Delivered,Delhi,Delhi,UPI
+1077,382,2025-12-29,Cancelled,Jaipur,Rajasthan,UPI
+1078,209,2025-12-02,Delivered,Pune,Maharashtra,Cash on Delivery
+1079,641,2025-11-01,Delivered,Jaipur,Rajasthan,Net Banking
+1080,232,2025-11-28,Delivered,Chennai,Tamil Nadu,Cash on Delivery
+1081,252,2025-12-04,Cancelled,Mumbai,Maharashtra,Credit Card
+1082,482,2025-01-26,Delivered,Bengaluru,Karnataka,Debit Card
+1083,571,2025-06-14,Delivered,Jaipur,Rajasthan,UPI
+1084,507,2025-12-02,Cancelled,Delhi,Delhi,Cash on Delivery
+1085,365,2025-05-29,Delivered,Chennai,Tamil Nadu,Cash on Delivery
+1086,569,2025-10-05,Delivered,Lucknow,Uttar Pradesh,Credit Card
+1087,512,2025-04-21,Delivered,Bengaluru,Karnataka,Net Banking
+1088,466,2025-03-28,Delivered,Kochi,Kerala,Cash on Delivery
+1089,516,2025-12-07,Returned,Bengaluru,Karnataka,Net Banking
+1090,23,2025-05-15,Delivered,Pune,Maharashtra,Credit Card
+1091,300,2025-11-15,Delivered,Chennai,Tamil Nadu,Cash on Delivery
+1092,101,2025-11-11,Delivered,Kochi,Kerala,UPI
+1093,300,2025-04-22,Cancelled,Chennai,Tamil Nadu,Credit Card
+1094,205,2025-12-12,Delivered,Lucknow,Uttar Pradesh,Debit Card
+1095,126,2025-09-25,Delivered,Jaipur,Rajasthan,Credit Card
+1096,23,2025-09-11,Delivered,Pune,Maharashtra,UPI
+1097,363,2025-03-28,Delivered,Nagpur,Maharashtra,Cash on Delivery
+1098,374,2025-03-12,Delivered,Mumbai,Maharashtra,Credit Card
+1099,552,2025-12-12,Delivered,Jaipur,Rajasthan,Cash on Delivery
+1100,197,2025-11-06,Delivered,Kolkata,West Bengal,UPI
+1101,307,2025-11-30,Returned,Chennai,Tamil Nadu,UPI
+1102,446,2025-02-04,Delivered,Jaipur,Rajasthan,Cash on Delivery
+1103,444,2025-06-07,Cancelled,Jaipur,Rajasthan,Debit Card
+1104,212,2025-11-27,Delivered,Mumbai,Maharashtra,UPI
+1105,514,2025-11-06,Returned,Nagpur,Maharashtra,Cash on Delivery
+1106,582,2025-01-12,Delivered,Ahmedabad,Gujarat,Net Banking
+1107,538,2025-07-28,Delivered,Jaipur,Rajasthan,Net Banking
+1108,573,2025-04-01,Delivered,Ahmedabad,Gujarat,Cash on Delivery
+1109,107,2025-06-15,Delivered,Delhi,Delhi,UPI
+1110,311,2025-11-02,Delivered,Bengaluru,Karnataka,Credit Card
+1111,681,2025-01-14,Delivered,Lucknow,Uttar Pradesh,Cash on Delivery
+1112,487,2025-12-06,Delivered,Nagpur,Maharashtra,Credit Card
+1113,446,2025-11-15,Delivered,Jaipur,Rajasthan,UPI
+1114,627,2025-01-24,Delivered,Mumbai,Maharashtra,Credit Card
+1115,590,2025-04-15,Delivered,Kolkata,West Bengal,UPI
+1116,591,2025-12-31,Delivered,Ahmedabad,Gujarat,Debit Card
+1117,205,2025-06-23,Delivered,Mumbai,Maharashtra,UPI
+1118,249,2025-05-03,Delivered,Chennai,Tamil Nadu,Net Banking
+1119,297,2025-09-06,Returned,Nagpur,Maharashtra,Credit Card
+1120,291,2025-12-09,Delivered,Hyderabad,Telangana,Credit Card
+1121,60,2025-10-19,Delivered,Delhi,Delhi,Net Banking
+1122,45,2025-12-20,Delivered,Bengaluru,Karnataka,Debit Card
+1123,497,2025-09-19,Delivered,Ahmedabad,Gujarat,Cash on Delivery
+1124,192,2025-12-31,Cancelled,Kolkata,West Bengal,Net Banking
+1125,563,2025-06-08,Delivered,Hyderabad,Telangana,Credit Card
+1126,149,2025-10-19,Cancelled,Nagpur,Maharashtra,Cash on Delivery
+1127,330,2025-09-02,Delivered,Hyderabad,Telangana,Cash on Delivery
+1128,52,2025-11-13,Delivered,Pune,Maharashtra,Credit Card
+1129,659,2025-12-10,Delivered,Bengaluru,Karnataka,Credit Card
+1130,559,2025-11-08,Delivered,Bengaluru,Karnataka,Net Banking
+1131,88,2025-11-22,Delivered,Mumbai,Maharashtra,Net Banking
+1132,138,2025-12-28,Delivered,Delhi,Delhi,Cash on Delivery
+1133,153,2025-08-18,Delivered,Nagpur,Maharashtra,Net Banking
+1134,121,2025-11-15,Delivered,Kochi,Kerala,Net Banking
+1135,126,2025-10-22,Delivered,Jaipur,Rajasthan,Cash on Delivery
+1136,343,2025-11-30,Delivered,Bengaluru,Karnataka,Debit Card
+1137,78,2025-02-03,Delivered,Hyderabad,Telangana,UPI
+1138,105,2025-11-23,Delivered,Bengaluru,Karnataka,Debit Card
+1139,400,2025-11-05,Delivered,Ahmedabad,Gujarat,UPI
+1140,547,2025-12-22,Delivered,Bengaluru,Karnataka,Credit Card
+1141,21,2025-01-11,Delivered,Bengaluru,Karnataka,Credit Card
+1142,558,2025-05-25,Delivered,Nagpur,Maharashtra,Debit Card
+1143,690,2025-11-02,Delivered,Kolkata,West Bengal,Net Banking
+1144,640,2025-01-22,Delivered,Bengaluru,Karnataka,Cash on Delivery
+1145,366,2025-12-21,Cancelled,Lucknow,Uttar Pradesh,Net Banking
+1146,175,2025-01-17,Cancelled,Jaipur,Rajasthan,Cash on Delivery
+1147,364,2025-03-12,Delivered,Delhi,Delhi,Debit Card
+1148,422,2025-05-05,Delivered,Ahmedabad,Gujarat,Net Banking
+1149,320,2025-01-09,Returned,Nagpur,Maharashtra,Cash on Delivery
+1150,408,2025-05-17,Delivered,Delhi,Delhi,Cash on Delivery
+1151,675,2025-12-18,Delivered,Kolkata,West Bengal,UPI
+1152,552,2025-08-24,Delivered,Jaipur,Rajasthan,Cash on Delivery
+1153,695,2025-11-18,Returned,Lucknow,Uttar Pradesh,Debit Card
+1154,168,2025-04-19,Delivered,Delhi,Delhi,Credit Card
+1155,501,2025-07-29,Delivered,Kolkata,West Bengal,Net Banking
+1156,427,2025-11-13,Delivered,Jaipur,Rajasthan,UPI
+1157,547,2025-12-04,Returned,Bengaluru,Karnataka,Debit Card
+1158,59,2025-05-16,Returned,Jaipur,Rajasthan,Net Banking
+1159,460,2025-03-05,Delivered,Hyderabad,Telangana,Net Banking
+1160,107,2025-01-26,Delivered,Chennai,Tamil Nadu,Net Banking
+1161,564,2025-11-02,Delivered,Ahmedabad,Gujarat,Credit Card
+1162,446,2025-08-24,Delivered,Jaipur,Rajasthan,Credit Card
+1163,639,2025-11-09,Delivered,Jaipur,Rajasthan,UPI
+1164,167,2025-09-11,Returned,Delhi,Delhi,Debit Card
+1165,451,2025-08-15,Delivered,Nagpur,Maharashtra,Credit Card
+1166,614,2025-04-20,Delivered,Ahmedabad,Gujarat,Credit Card
+1167,337,2025-09-17,Delivered,Kochi,Kerala,Debit Card
+1168,196,2025-04-17,Delivered,Delhi,Delhi,UPI
+1169,26,2025-06-05,Returned,Nagpur,Maharashtra,Debit Card
+1170,340,2025-07-10,Delivered,Lucknow,Uttar Pradesh,Credit Card
+1171,137,2025-09-18,Delivered,Delhi,Delhi,Net Banking
+1172,275,2025-12-30,Delivered,Chennai,Tamil Nadu,Cash on Delivery
+1173,286,2025-04-21,Delivered,Lucknow,Uttar Pradesh,UPI
+1174,275,2025-04-27,Delivered,Chennai,Tamil Nadu,Net Banking
+1175,136,2025-03-12,Delivered,Lucknow,Uttar Pradesh,Credit Card
+1176,291,2025-03-07,Delivered,Hyderabad,Telangana,Debit Card
+1177,430,2025-05-19,Delivered,Nagpur,Maharashtra,Debit Card
+1178,573,2025-12-22,Delivered,Ahmedabad,Gujarat,Net Banking
+1179,578,2025-07-02,Returned,Nagpur,Maharashtra,Debit Card
+1180,381,2025-08-01,Cancelled,Kochi,Kerala,Net Banking
+1181,669,2025-02-05,Delivered,Kochi,Kerala,Credit Card
+1182,297,2025-12-10,Delivered,Nagpur,Maharashtra,Net Banking
+1183,578,2025-12-08,Delivered,Mumbai,Maharashtra,Net Banking
+1184,629,2025-12-20,Delivered,Ahmedabad,Gujarat,Credit Card
+1185,364,2025-11-18,Delivered,Lucknow,Uttar Pradesh,Net Banking
+1186,54,2025-12-26,Delivered,Chennai,Tamil Nadu,UPI
+1187,585,2025-05-24,Delivered,Jaipur,Rajasthan,Debit Card
+1188,125,2025-08-24,Delivered,Kochi,Kerala,UPI
+1189,150,2025-07-22,Delivered,Pune,Maharashtra,Credit Card
+1190,14,2025-11-27,Returned,Hyderabad,Telangana,Credit Card
+1191,66,2025-03-18,Delivered,Delhi,Delhi,Debit Card
+1192,551,2025-05-01,Delivered,Hyderabad,Telangana,Net Banking
+1193,371,2025-10-21,Delivered,Ahmedabad,Gujarat,Cash on Delivery
+1194,483,2025-06-10,Delivered,Delhi,Delhi,Cash on Delivery
+1195,552,2025-04-18,Delivered,Jaipur,Rajasthan,Debit Card
+1196,325,2025-09-19,Returned,Nagpur,Maharashtra,Cash on Delivery
+1197,2,2025-12-30,Delivered,Chennai,Tamil Nadu,UPI
+1198,269,2025-10-04,Cancelled,Lucknow,Uttar Pradesh,UPI
+1199,687,2025-03-15,Delivered,Jaipur,Rajasthan,Cash on Delivery
+1200,110,2025-12-16,Delivered,Mumbai,Maharashtra,Cash on Delivery
+1201,382,2025-01-22,Cancelled,Jaipur,Rajasthan,UPI
+1202,437,2025-10-03,Returned,Bengaluru,Karnataka,UPI
+1203,616,2025-11-15,Delivered,Pune,Maharashtra,Net Banking
+1204,585,2025-11-05,Delivered,Jaipur,Rajasthan,Net Banking
+1205,29,2025-12-11,Delivered,Kochi,Kerala,Net Banking
+1206,65,2025-09-03,Returned,Pune,Maharashtra,Debit Card
+1207,175,2025-02-15,Delivered,Jaipur,Rajasthan,Credit Card
+1208,227,2025-11-16,Delivered,Kolkata,West Bengal,Net Banking
+1209,209,2025-03-24,Delivered,Pune,Maharashtra,Net Banking
+1210,495,2025-02-20,Delivered,Kochi,Kerala,UPI
+1211,425,2025-03-06,Delivered,Lucknow,Uttar Pradesh,UPI
+1212,442,2025-04-06,Delivered,Hyderabad,Telangana,UPI
+1213,303,2025-11-21,Delivered,Ahmedabad,Gujarat,UPI
+1214,138,2025-12-28,Returned,Nagpur,Maharashtra,Cash on Delivery
+1215,595,2025-07-22,Delivered,Kolkata,West Bengal,UPI
+1216,607,2025-07-15,Cancelled,Ahmedabad,Gujarat,Net Banking
+1217,646,2025-12-22,Delivered,Pune,Maharashtra,Credit Card
+1218,33,2025-09-04,Delivered,Kochi,Kerala,Credit Card
+1219,111,2025-05-30,Returned,Bengaluru,Karnataka,Cash on Delivery
+1220,647,2025-05-29,Delivered,Hyderabad,Telangana,Net Banking
+1221,116,2025-11-14,Returned,Hyderabad,Telangana,Cash on Delivery
+1222,326,2025-06-13,Delivered,Kolkata,West Bengal,UPI
+1223,569,2025-05-06,Delivered,Nagpur,Maharashtra,Credit Card
+1224,373,2025-11-12,Delivered,Nagpur,Maharashtra,Debit Card
+1225,681,2025-01-14,Cancelled,Hyderabad,Telangana,UPI
+1226,252,2025-03-08,Delivered,Mumbai,Maharashtra,UPI
+1227,592,2025-12-05,Delivered,Bengaluru,Karnataka,Credit Card
+1228,435,2025-12-24,Delivered,Mumbai,Maharashtra,Cash on Delivery
+1229,562,2025-12-22,Delivered,Chennai,Tamil Nadu,Net Banking
+1230,115,2025-12-15,Delivered,Hyderabad,Telangana,UPI
+1231,486,2025-12-24,Delivered,Mumbai,Maharashtra,Debit Card
+1232,124,2025-11-13,Delivered,Hyderabad,Telangana,Debit Card
+1233,254,2025-05-07,Delivered,Jaipur,Rajasthan,Net Banking
+1234,51,2025-11-24,Delivered,Jaipur,Rajasthan,Credit Card
+1235,67,2025-04-11,Delivered,Kochi,Kerala,Net Banking
+1236,585,2025-03-27,Delivered,Jaipur,Rajasthan,Cash on Delivery
+1237,242,2025-01-10,Delivered,Ahmedabad,Gujarat,Credit Card
+1238,11,2025-12-20,Cancelled,Chennai,Tamil Nadu,Cash on Delivery
+1239,511,2025-10-27,Delivered,Lucknow,Uttar Pradesh,Debit Card
+1240,21,2025-11-27,Delivered,Bengaluru,Karnataka,Cash on Delivery
+1241,50,2025-11-25,Returned,Mumbai,Maharashtra,Credit Card
+1242,344,2025-04-16,Returned,Chennai,Tamil Nadu,UPI
+1243,116,2025-04-21,Delivered,Hyderabad,Telangana,UPI
+1244,167,2025-01-20,Delivered,Delhi,Delhi,Cash on Delivery
+1245,455,2025-11-10,Returned,Delhi,Delhi,Cash on Delivery
+1246,552,2025-12-27,Delivered,Jaipur,Rajasthan,UPI
+1247,66,2025-12-30,Cancelled,Delhi,Delhi,Cash on Delivery
+1248,279,2025-12-23,Delivered,Delhi,Delhi,Debit Card
+1249,672,2025-06-04,Delivered,Pune,Maharashtra,UPI
+1250,264,2025-03-02,Delivered,Kochi,Kerala,UPI
+1251,283,2025-08-10,Delivered,Mumbai,Maharashtra,Debit Card
+1252,382,2025-10-05,Delivered,Jaipur,Rajasthan,Cash on Delivery
+1253,311,2025-12-06,Delivered,Delhi,Delhi,Credit Card
+1254,118,2025-02-12,Returned,Mumbai,Maharashtra,Cash on Delivery
+1255,604,2025-01-02,Delivered,Kolkata,West Bengal,UPI
+1256,335,2025-05-26,Cancelled,Ahmedabad,Gujarat,Debit Card
+1257,681,2025-11-24,Delivered,Hyderabad,Telangana,Credit Card
+1258,28,2025-06-13,Delivered,Ahmedabad,Gujarat,Cash on Delivery
+1259,598,2025-07-04,Delivered,Jaipur,Rajasthan,Cash on Delivery
+1260,69,2025-11-20,Delivered,Jaipur,Rajasthan,Credit Card
+1261,192,2025-05-28,Delivered,Kolkata,West Bengal,Cash on Delivery
+1262,263,2025-10-14,Delivered,Bengaluru,Karnataka,Net Banking
+1263,666,2025-11-15,Returned,Hyderabad,Telangana,Cash on Delivery
+1264,567,2025-11-23,Delivered,Nagpur,Maharashtra,Cash on Delivery
+1265,152,2025-11-21,Delivered,Pune,Maharashtra,UPI
+1266,197,2025-09-13,Delivered,Kolkata,West Bengal,UPI
+1267,642,2025-01-03,Delivered,Chennai,Tamil Nadu,UPI
+1268,340,2025-01-15,Cancelled,Lucknow,Uttar Pradesh,Debit Card
+1269,252,2025-03-13,Cancelled,Mumbai,Maharashtra,Cash on Delivery
+1270,62,2025-12-02,Delivered,Chennai,Tamil Nadu,UPI
+1271,123,2025-11-26,Delivered,Pune,Maharashtra,UPI
+1272,244,2025-06-04,Cancelled,Chennai,Tamil Nadu,Cash on Delivery
+1273,641,2025-12-12,Delivered,Jaipur,Rajasthan,Debit Card
+1274,595,2025-03-15,Delivered,Bengaluru,Karnataka,Credit Card
+1275,616,2025-08-14,Delivered,Bengaluru,Karnataka,UPI
+1276,250,2025-11-06,Cancelled,Delhi,Delhi,Net Banking
+1277,100,2025-11-05,Delivered,Chennai,Tamil Nadu,UPI
+1278,557,2025-11-28,Cancelled,Ahmedabad,Gujarat,Cash on Delivery
+1279,67,2025-11-10,Delivered,Kochi,Kerala,Net Banking
+1280,547,2025-04-18,Delivered,Mumbai,Maharashtra,Debit Card
+1281,162,2025-03-25,Delivered,Delhi,Delhi,Credit Card
+1282,487,2025-08-29,Returned,Chennai,Tamil Nadu,Cash on Delivery
+1283,534,2025-02-26,Delivered,Nagpur,Maharashtra,Credit Card
+1284,478,2025-12-31,Delivered,Mumbai,Maharashtra,Credit Card
+1285,135,2025-05-30,Delivered,Ahmedabad,Gujarat,UPI
+1286,21,2025-11-15,Delivered,Bengaluru,Karnataka,Credit Card
+1287,531,2025-09-07,Delivered,Lucknow,Uttar Pradesh,Credit Card
+1288,295,2025-03-06,Delivered,Pune,Maharashtra,Credit Card
+1289,453,2025-11-23,Delivered,Pune,Maharashtra,Debit Card
+1290,1,2025-05-24,Delivered,Kochi,Kerala,Credit Card
+1291,523,2025-12-07,Delivered,Pune,Maharashtra,UPI
+1292,88,2025-11-23,Delivered,Mumbai,Maharashtra,Credit Card
+1293,225,2025-05-27,Delivered,Kochi,Kerala,Debit Card
+1294,235,2025-02-08,Delivered,Kolkata,West Bengal,Debit Card
+1295,283,2025-06-12,Delivered,Lucknow,Uttar Pradesh,Debit Card
+1296,529,2025-08-12,Delivered,Nagpur,Maharashtra,Cash on Delivery
+1297,466,2025-11-05,Delivered,Kochi,Kerala,UPI
+1298,615,2025-12-12,Delivered,Ahmedabad,Gujarat,Cash on Delivery
+1299,266,2025-12-28,Delivered,Delhi,Delhi,Cash on Delivery
+1300,488,2025-11-28,Delivered,Mumbai,Maharashtra,UPI
+1301,446,2025-12-29,Returned,Jaipur,Rajasthan,Credit Card
+1302,569,2025-12-20,Delivered,Lucknow,Uttar Pradesh,Credit Card
+1303,241,2025-11-13,Delivered,Jaipur,Rajasthan,UPI
+1304,378,2025-12-14,Delivered,Nagpur,Maharashtra,Debit Card
+1305,333,2025-03-12,Delivered,Kolkata,West Bengal,Credit Card
+1306,651,2025-12-13,Delivered,Kochi,Kerala,Net Banking
+1307,98,2025-12-26,Delivered,Pune,Maharashtra,Credit Card
+1308,248,2025-10-14,Delivered,Nagpur,Maharashtra,Debit Card
+1309,231,2025-04-16,Delivered,Ahmedabad,Gujarat,Debit Card
+1310,252,2025-07-16,Delivered,,Maharashtra,Credit Card
+1311,66,2025-12-27,Delivered,Delhi,Delhi,Debit Card
+1312,562,2025-12-13,Cancelled,Chennai,Tamil Nadu,Cash on Delivery
+1313,297,2025-12-12,Delivered,Nagpur,Maharashtra,Credit Card
+1314,278,2025-07-15,Delivered,Kochi,Kerala,UPI
+1315,49,2025-11-29,Delivered,Kochi,Kerala,Cash on Delivery
+1316,272,2025-02-03,Cancelled,Kochi,Kerala,UPI
+1317,412,2025-03-29,Delivered,Mumbai,Maharashtra,UPI
+1318,73,2025-02-04,Delivered,Bengaluru,Karnataka,Debit Card
+1319,100,2025-12-12,Delivered,Chennai,Tamil Nadu,Net Banking
+1320,653,2025-03-13,Delivered,Kochi,Kerala,Debit Card
+1321,105,2025-12-02,Delivered,Bengaluru,Karnataka,Credit Card
+1322,561,2025-03-24,Delivered,Lucknow,Uttar Pradesh,Net Banking
+1323,36,2025-12-13,Delivered,Lucknow,Uttar Pradesh,Cash on Delivery
+1324,248,2025-11-15,Delivered,Nagpur,Maharashtra,Net Banking
+1325,133,2025-04-07,Delivered,Mumbai,Maharashtra,Net Banking
+1326,253,2025-08-08,Delivered,Ahmedabad,Gujarat,Credit Card
+1327,659,2025-11-15,Cancelled,Bengaluru,Karnataka,Credit Card
+1328,148,2025-07-25,Delivered,Jaipur,Rajasthan,Credit Card
+1329,554,2025-11-09,Delivered,Pune,Maharashtra,Net Banking
+1330,559,2025-06-17,Delivered,Bengaluru,Karnataka,Debit Card
+1331,1,2025-07-28,Delivered,Kochi,Kerala,Net Banking
+1332,367,2025-09-21,Delivered,Kochi,Kerala,Credit Card
+1333,412,2025-06-03,Delivered,Mumbai,Maharashtra,Net Banking
+1334,11,2025-12-27,Delivered,Chennai,Tamil Nadu,Debit Card
+1335,542,2025-12-17,Delivered,Jaipur,Rajasthan,UPI
+1336,477,2025-12-23,Delivered,Chennai,Tamil Nadu,Credit Card
+1337,538,2025-11-09,Delivered,Jaipur,Rajasthan,UPI
+1338,33,2025-12-18,Delivered,Kochi,Kerala,Cash on Delivery
+1339,63,2025-07-25,Delivered,Ahmedabad,Gujarat,Net Banking
+1340,23,2025-12-11,Delivered,Pune,Maharashtra,UPI
+1341,382,2025-06-05,Returned,Jaipur,Rajasthan,UPI
+1342,644,2025-02-14,Delivered,Lucknow,Uttar Pradesh,Credit Card
+1343,235,2025-08-06,Delivered,Kolkata,West Bengal,Credit Card
+1344,428,2025-06-22,Delivered,Kolkata,West Bengal,Cash on Delivery
+1345,382,2025-12-21,Delivered,Jaipur,Rajasthan,UPI
+1346,137,2025-05-05,Delivered,Delhi,Delhi,Credit Card
+1347,446,2025-02-26,Delivered,Jaipur,Rajasthan,Debit Card
+1348,597,2025-02-13,Delivered,Mumbai,Maharashtra,UPI
+1349,610,2025-11-06,Delivered,Pune,Maharashtra,Credit Card
+1350,586,2025-12-06,Delivered,Kochi,Kerala,Credit Card
+1351,264,2025-11-09,Delivered,Kochi,Kerala,Cash on Delivery
+1352,16,2025-11-10,Delivered,Bengaluru,Karnataka,UPI
+1353,605,2025-04-16,Cancelled,Kochi,Kerala,Credit Card
+1354,269,2025-12-05,Cancelled,Lucknow,Uttar Pradesh,Debit Card
+1355,585,2025-11-23,Delivered,Jaipur,Rajasthan,UPI
+1356,466,2025-12-15,Delivered,Kochi,Kerala,Net Banking
+1357,585,2025-01-15,Delivered,Jaipur,Rajasthan,Cash on Delivery
+1358,132,2025-11-07,Cancelled,Nagpur,Maharashtra,Net Banking
+1359,127,2025-10-06,Cancelled,Lucknow,Uttar Pradesh,Net Banking
+1360,264,2025-05-27,Delivered,Kochi,Kerala,Credit Card
+1361,546,2025-12-08,Delivered,Bengaluru,Karnataka,Net Banking
+1362,453,2025-11-19,Delivered,Bengaluru,Karnataka,UPI
+1363,161,2025-11-15,Delivered,Kochi,Kerala,Net Banking
+1364,33,2025-11-15,Delivered,Kochi,Kerala,UPI
+1365,417,2025-12-12,Delivered,Nagpur,Maharashtra,Credit Card
+1366,197,2025-12-18,Delivered,Kolkata,West Bengal,Credit Card
+1367,681,2025-01-11,Delivered,Hyderabad,Telangana,Net Banking
+1368,530,2025-11-10,Delivered,Kochi,Kerala,Cash on Delivery
+1369,698,2025-07-02,Delivered,Lucknow,Uttar Pradesh,UPI
+1370,66,2025-12-17,Returned,Delhi,Delhi,Credit Card
+1371,114,2025-09-07,Delivered,Jaipur,Rajasthan,Credit Card
+1372,173,2025-10-27,Delivered,Bengaluru,Karnataka,Credit Card
+1373,462,2025-12-23,Delivered,Kochi,Kerala,UPI
+1374,268,2025-07-10,Delivered,Jaipur,Rajasthan,Credit Card
+1375,415,2025-11-21,Delivered,Pune,Maharashtra,Cash on Delivery
+1376,625,2025-02-24,Delivered,Pune,Maharashtra,UPI
+1377,35,2025-11-14,Cancelled,Nagpur,Maharashtra,UPI
+1378,209,2025-10-24,Delivered,Pune,Maharashtra,UPI
+1379,652,2025-04-07,Delivered,Chennai,Tamil Nadu,UPI
+1380,161,2025-04-09,Delivered,Ahmedabad,Gujarat,UPI
+1381,469,2025-12-28,Delivered,Chennai,Tamil Nadu,Debit Card
+1382,242,2025-04-05,Cancelled,Ahmedabad,Gujarat,Debit Card
+1383,15,2025-01-04,Delivered,Bengaluru,Karnataka,UPI
+1384,135,2025-04-09,Delivered,Ahmedabad,Gujarat,UPI
+1385,202,2025-06-16,Delivered,Kochi,Kerala,Credit Card
+1386,291,2025-02-06,Delivered,Hyderabad,Telangana,Debit Card
+1387,247,2025-07-15,Delivered,Nagpur,Maharashtra,Credit Card
+1388,615,2025-05-24,Delivered,Ahmedabad,Gujarat,Credit Card
+1389,447,2025-11-06,Delivered,Chennai,Tamil Nadu,UPI
+1390,256,2025-05-28,Delivered,Delhi,Delhi,Cash on Delivery
+1391,373,2025-10-23,Delivered,Nagpur,Maharashtra,Cash on Delivery
+1392,431,2025-11-28,Returned,Jaipur,Rajasthan,Net Banking
+1393,370,2025-12-17,Delivered,Kochi,Kerala,Cash on Delivery
+1394,269,2025-04-21,Delivered,Lucknow,Uttar Pradesh,UPI
+1395,557,2025-01-11,Delivered,Ahmedabad,Gujarat,Credit Card
+1396,11,2025-07-29,Delivered,Chennai,Tamil Nadu,Credit Card
+1397,430,2025-12-26,Delivered,Nagpur,Maharashtra,UPI
+1398,511,2025-08-08,Delivered,Lucknow,Uttar Pradesh,UPI
+1399,189,2025-04-24,Delivered,Ahmedabad,Gujarat,Credit Card
+1400,411,2025-11-09,Delivered,Hyderabad,Telangana,Cash on Delivery
+1401,518,2025-09-01,Delivered,Kolkata,West Bengal,UPI
+1402,146,2025-07-26,Cancelled,Kolkata,West Bengal,Credit Card
+1403,618,2025-08-08,Delivered,Pune,Maharashtra,Net Banking
+1404,643,2025-12-17,Delivered,Jaipur,Rajasthan,Debit Card
+1405,623,2025-05-03,Cancelled,Delhi,Delhi,UPI
+1406,207,2025-01-30,Delivered,Kolkata,West Bengal,UPI
+1407,61,2025-05-04,Delivered,Nagpur,Maharashtra,Debit Card
+1408,39,2025-12-14,Delivered,Kochi,Kerala,Debit Card
+1409,369,2025-12-18,Delivered,Mumbai,Maharashtra,Net Banking
+1410,439,2025-08-18,Delivered,Jaipur,Rajasthan,Debit Card
+1411,309,2025-10-26,Delivered,Delhi,Delhi,Debit Card
+1412,385,2025-11-12,Delivered,Chennai,Tamil Nadu,UPI
+1413,225,2025-11-04,Delivered,Kochi,Kerala,Net Banking
+1414,525,2025-12-17,Delivered,Delhi,Delhi,Debit Card
+1415,185,2025-02-12,Delivered,Ahmedabad,Gujarat,Net Banking
+1416,494,2025-11-14,Delivered,Jaipur,Rajasthan,Cash on Delivery
+1417,497,2025-07-12,Delivered,Ahmedabad,Gujarat,Cash on Delivery
+1418,489,2025-10-28,Delivered,Bengaluru,Karnataka,UPI
+1419,21,2025-11-17,Delivered,Bengaluru,Karnataka,Credit Card
+1420,105,2025-02-22,Delivered,Bengaluru,Karnataka,UPI
+1421,340,2025-11-05,Returned,Lucknow,Uttar Pradesh,Debit Card
+1422,593,2025-01-25,Delivered,Kolkata,West Bengal,Debit Card
+1423,204,2025-12-08,Delivered,Ahmedabad,Gujarat,Credit Card
+1424,137,2025-11-17,Delivered,Delhi,Delhi,Net Banking
+1425,158,2025-07-02,Delivered,Kolkata,West Bengal,Cash on Delivery
+1426,264,2025-12-29,Delivered,Kochi,Kerala,Credit Card
+1427,671,2025-06-30,Delivered,Mumbai,Maharashtra,Credit Card
+1428,325,2025-11-12,Returned,Lucknow,Uttar Pradesh,UPI
+1429,551,2025-11-25,Delivered,Hyderabad,Telangana,Net Banking
+1430,287,2025-09-02,Delivered,,Uttar Pradesh,UPI
+1431,638,2025-08-09,Delivered,Nagpur,Maharashtra,Cash on Delivery
+1432,635,2025-11-16,Delivered,Mumbai,Maharashtra,UPI
+1433,297,2025-02-15,Returned,Nagpur,Maharashtra,Net Banking
+1434,327,2025-11-02,Delivered,Ahmedabad,Gujarat,Debit Card
+1435,629,2025-10-19,Delivered,Ahmedabad,Gujarat,UPI
+1436,123,2025-11-24,Delivered,Pune,Maharashtra,UPI
+1437,30,2025-07-31,Delivered,Kolkata,West Bengal,Credit Card
+1438,355,2025-01-01,Delivered,Bengaluru,Karnataka,Credit Card
+1439,26,2025-06-25,Delivered,Nagpur,Maharashtra,Net Banking
+1440,81,2025-11-21,Delivered,Bengaluru,Karnataka,Credit Card
+1441,250,2025-12-04,Delivered,Delhi,Delhi,UPI
+1442,64,2025-06-12,Delivered,Bengaluru,Karnataka,UPI
+1443,89,2025-04-05,Delivered,Hyderabad,Telangana,UPI
+1444,340,2025-11-24,Delivered,Lucknow,Uttar Pradesh,Cash on Delivery
+1445,521,2025-11-21,Cancelled,Nagpur,Maharashtra,Credit Card
+1446,144,2025-04-23,Delivered,Hyderabad,Telangana,Net Banking
+1447,43,2025-06-26,Returned,Kochi,Kerala,Net Banking
+1448,12,2025-12-11,Delivered,Pune,Maharashtra,Debit Card
+1449,640,2025-11-17,Delivered,Mumbai,Maharashtra,Debit Card
+1450,641,2025-02-15,Returned,Kolkata,West Bengal,Net Banking
+1451,464,2025-01-12,Delivered,Kolkata,West Bengal,Cash on Delivery
+1452,460,2025-11-20,Delivered,Hyderabad,Telangana,Net Banking
+1453,696,2025-08-14,Delivered,Jaipur,Rajasthan,UPI
+1454,697,2025-08-10,Delivered,Kolkata,West Bengal,Credit Card
+1455,511,2025-07-04,Delivered,Lucknow,Uttar Pradesh,Net Banking
+1456,576,2025-07-07,Returned,Kochi,Kerala,Net Banking
+1457,590,2025-07-10,Delivered,Kolkata,West Bengal,Cash on Delivery
+1458,300,2025-07-05,Delivered,Bengaluru,Karnataka,Cash on Delivery
+1459,144,2025-11-07,Delivered,Hyderabad,Telangana,Net Banking
+1460,586,2025-04-08,Delivered,Kochi,Kerala,UPI
+1461,164,2025-12-04,Delivered,Kochi,Kerala,Credit Card
+1462,40,2025-12-06,Delivered,Bengaluru,Karnataka,Credit Card
+1463,678,2025-04-29,Delivered,Pune,Maharashtra,UPI
+1464,79,2025-06-08,Delivered,Mumbai,Maharashtra,Credit Card
+1465,698,2025-04-11,Returned,Lucknow,Uttar Pradesh,Credit Card
+1466,67,2025-03-20,Delivered,Kochi,Kerala,Debit Card
+1467,355,2025-12-17,Delivered,Bengaluru,Karnataka,Cash on Delivery
+1468,64,2025-11-25,Delivered,Bengaluru,Karnataka,Cash on Delivery
+1469,189,2025-07-21,Delivered,Pune,Maharashtra,Credit Card
+1470,438,2025-12-18,Delivered,Mumbai,Maharashtra,Cash on Delivery
+1471,443,2025-09-20,Delivered,Chennai,Tamil Nadu,Debit Card
+1472,348,2025-03-26,Delivered,Kolkata,West Bengal,Credit Card
+1473,302,2025-11-07,Delivered,Hyderabad,Telangana,Credit Card
+1474,20,2025-09-05,Delivered,Bengaluru,Karnataka,UPI
+1475,129,2025-11-22,Delivered,Mumbai,Maharashtra,Cash on Delivery
+1476,195,2025-09-07,Delivered,Jaipur,Rajasthan,UPI
+1477,229,2025-10-21,Delivered,Mumbai,Maharashtra,UPI
+1478,547,2025-12-21,Delivered,Bengaluru,Karnataka,UPI
+1479,28,2025-07-08,Delivered,Jaipur,Rajasthan,UPI
+1480,397,2025-12-15,Delivered,Bengaluru,Karnataka,UPI
+1481,297,2025-04-07,Delivered,Nagpur,Maharashtra,Net Banking
+1482,266,2025-01-14,Delivered,Delhi,Delhi,Cash on Delivery
+1483,617,2025-11-20,Returned,Nagpur,Maharashtra,UPI
+1484,564,2025-10-28,Delivered,Ahmedabad,Gujarat,UPI
+1485,63,2025-09-13,Delivered,Ahmedabad,Gujarat,Debit Card
+1486,105,2025-11-06,Delivered,Kolkata,West Bengal,Debit Card
+1487,249,2025-07-04,Delivered,Chennai,Tamil Nadu,UPI
+1488,158,2025-08-22,Delivered,Lucknow,Uttar Pradesh,Debit Card
+1489,24,2025-11-02,Delivered,Chennai,Tamil Nadu,Cash on Delivery
+1490,481,2025-08-16,Delivered,Kolkata,West Bengal,Credit Card
+1491,556,2025-01-17,Cancelled,Mumbai,Maharashtra,Credit Card
+1492,560,2025-07-25,Delivered,Mumbai,Maharashtra,Net Banking
+1493,234,2025-12-29,Delivered,Ahmedabad,Gujarat,Cash on Delivery
+1494,552,2025-12-04,Delivered,Jaipur,Rajasthan,Debit Card
+1495,631,2025-11-29,Delivered,Mumbai,Maharashtra,Net Banking
+1496,63,2025-11-16,Delivered,Ahmedabad,Gujarat,Debit Card
+1497,78,2025-11-20,Delivered,Jaipur,Rajasthan,Cash on Delivery
+1498,197,2025-02-10,Delivered,Kolkata,West Bengal,UPI
+1499,357,2025-12-31,Cancelled,Nagpur,Maharashtra,UPI
+1500,235,2025-12-05,Delivered,Pune,Maharashtra,Credit Card
+1501,347,2025-05-13,Delivered,Pune,Maharashtra,UPI
+1502,150,2025-02-18,Delivered,Pune,Maharashtra,Cash on Delivery
+1503,269,2025-11-05,Delivered,Lucknow,Uttar Pradesh,Credit Card
+1504,423,2025-10-17,Delivered,Kochi,Kerala,Credit Card
+1505,79,2025-02-22,Returned,Mumbai,Maharashtra,Credit Card
+1506,303,2025-02-26,Delivered,Chennai,Tamil Nadu,Credit Card
+1507,237,2025-12-21,Delivered,Chennai,Tamil Nadu,Net Banking
+1508,360,2025-08-25,Delivered,Nagpur,Maharashtra,Net Banking
+1509,344,2025-12-13,Delivered,Bengaluru,Karnataka,Credit Card
+1510,116,2025-11-17,Delivered,Hyderabad,Telangana,Cash on Delivery
+1511,68,2025-03-07,Delivered,Hyderabad,Telangana,Credit Card
+1512,655,2025-12-09,Delivered,Ahmedabad,Gujarat,UPI
+1513,69,2025-06-18,Cancelled,Jaipur,Rajasthan,Cash on Delivery
+1514,462,2025-09-28,Delivered,Chennai,Tamil Nadu,Credit Card
+1515,97,2025-03-27,Delivered,Bengaluru,Karnataka,Credit Card
+1516,149,2025-11-22,Returned,Nagpur,Maharashtra,Debit Card
+1517,52,2025-12-10,Delivered,Pune,Maharashtra,Net Banking
+1518,174,2025-12-07,Delivered,Mumbai,Maharashtra,Credit Card
+1519,204,2025-06-27,Delivered,Ahmedabad,Gujarat,Credit Card
+1520,349,2025-04-02,Delivered,Mumbai,Maharashtra,Debit Card
+1521,242,2025-11-02,Delivered,Ahmedabad,Gujarat,Debit Card
+1522,249,2025-05-20,Cancelled,Chennai,Tamil Nadu,Debit Card
+1523,581,2025-11-16,Delivered,Bengaluru,Karnataka,Credit Card
+1524,591,2025-07-20,Delivered,,Gujarat,Credit Card
+1525,295,2025-12-10,Delivered,Pune,Maharashtra,Credit Card
+1526,239,2025-11-30,Cancelled,Jaipur,Rajasthan,Net Banking
+1527,196,2025-09-14,Delivered,Delhi,Delhi,Net Banking
+1528,691,2025-06-30,Returned,Nagpur,Maharashtra,UPI
+1529,175,2025-12-01,Delivered,Nagpur,Maharashtra,Cash on Delivery
+1530,91,2025-08-16,Delivered,Jaipur,Rajasthan,Debit Card
+1531,534,2025-08-02,Delivered,Nagpur,Maharashtra,Net Banking
+1532,328,2025-12-13,Delivered,Kolkata,West Bengal,Credit Card
+1533,40,2025-05-03,Delivered,Bengaluru,Karnataka,UPI
+1534,449,2025-12-13,Cancelled,Lucknow,Uttar Pradesh,Debit Card
+1535,466,2025-05-02,Delivered,Kochi,Kerala,UPI
+1536,52,2025-01-10,Delivered,Pune,Maharashtra,Net Banking
+1537,296,2025-07-13,Delivered,Kochi,Kerala,Net Banking
+1538,513,2025-02-22,Delivered,Kochi,Kerala,Cash on Delivery
+1539,92,2025-11-19,Returned,Jaipur,Rajasthan,Net Banking
+1540,392,2025-11-09,Delivered,Ahmedabad,Gujarat,UPI
+1541,64,2025-01-08,Delivered,Bengaluru,Karnataka,Cash on Delivery
+1542,458,2025-09-30,Delivered,Chennai,Tamil Nadu,Cash on Delivery
+1543,59,2025-07-16,Delivered,Jaipur,Rajasthan,Cash on Delivery
+1544,684,2025-12-03,Delivered,Mumbai,Maharashtra,Net Banking
+1545,351,2025-11-05,Delivered,Kochi,Kerala,Cash on Delivery
+1546,277,2025-02-13,Delivered,Kochi,Kerala,Net Banking
+1547,559,2025-05-21,Delivered,Bengaluru,Karnataka,Net Banking
+1548,311,2025-05-18,Returned,Bengaluru,Karnataka,Debit Card
+1549,404,2025-02-15,Delivered,Bengaluru,Karnataka,Credit Card
+1550,171,2025-11-02,Delivered,Lucknow,Uttar Pradesh,Credit Card
+1551,26,2025-09-18,Cancelled,Nagpur,Maharashtra,Net Banking
+1552,64,2025-08-28,Delivered,Bengaluru,Karnataka,Credit Card
+1553,209,2025-04-12,Delivered,Pune,Maharashtra,UPI
+1554,564,2025-01-27,Delivered,Chennai,Tamil Nadu,Debit Card
+1555,100,2025-06-21,Delivered,Chennai,Tamil Nadu,Debit Card
+1556,37,2025-11-15,Delivered,Mumbai,Maharashtra,UPI
+1557,382,2025-07-26,Delivered,Delhi,Delhi,Net Banking
+1558,321,2025-10-14,Delivered,Kochi,Kerala,Credit Card
+1559,175,2025-09-04,Delivered,Kolkata,West Bengal,Cash on Delivery
+1560,415,2025-07-09,Delivered,,Maharashtra,Cash on Delivery
+1561,686,2025-02-20,Delivered,Chennai,Tamil Nadu,Credit Card
+1562,67,2025-11-21,Delivered,Kochi,Kerala,Debit Card
+1563,235,2025-10-21,Delivered,Kolkata,West Bengal,UPI
+1564,575,2025-08-03,Delivered,Bengaluru,Karnataka,Cash on Delivery
+1565,582,2025-05-28,Delivered,Ahmedabad,Gujarat,Credit Card
+1566,279,2025-08-11,Delivered,Delhi,Delhi,UPI
+1567,531,2025-03-18,Cancelled,Lucknow,Uttar Pradesh,Net Banking
+1568,594,2025-05-23,Delivered,Mumbai,Maharashtra,Net Banking
+1569,1,2025-12-21,Delivered,Delhi,Delhi,Cash on Delivery
+1570,638,2025-06-20,Delivered,Nagpur,Maharashtra,UPI
+1571,5,2025-01-09,Returned,Hyderabad,Telangana,Credit Card
+1572,556,2025-12-10,Delivered,Mumbai,Maharashtra,Cash on Delivery
+1573,513,2025-11-26,Delivered,Ahmedabad,Gujarat,Net Banking
+1574,258,2025-02-23,Delivered,Chennai,Tamil Nadu,Credit Card
+1575,427,2025-03-27,Delivered,Jaipur,Rajasthan,Credit Card
+1576,173,2025-04-28,Delivered,Bengaluru,Karnataka,Credit Card
+1577,12,2025-08-12,Delivered,Pune,Maharashtra,Credit Card
+1578,303,2025-12-17,Delivered,Ahmedabad,Gujarat,UPI
+1579,2,2025-12-30,Cancelled,Chennai,Tamil Nadu,Net Banking
+1580,107,2025-11-08,Cancelled,Lucknow,Uttar Pradesh,Net Banking
+1581,184,2025-01-05,Delivered,Ahmedabad,Gujarat,Debit Card
+1582,595,2025-05-16,Delivered,Bengaluru,Karnataka,Debit Card
+1583,434,2025-11-22,Delivered,Kolkata,West Bengal,Credit Card
+1584,579,2025-11-09,Cancelled,Kochi,Kerala,Cash on Delivery
+1585,141,2025-04-10,Delivered,Kochi,Kerala,Credit Card
+1586,604,2025-04-09,Delivered,Kochi,Kerala,UPI
+1587,382,2025-06-13,Delivered,Jaipur,Rajasthan,Cash on Delivery
+1588,466,2025-01-04,Delivered,Kochi,Kerala,Debit Card
+1589,275,2025-06-30,Delivered,Chennai,Tamil Nadu,UPI
+1590,358,2025-12-20,Delivered,Kolkata,West Bengal,UPI
+1591,180,2025-01-20,Delivered,Jaipur,Rajasthan,Credit Card
+1592,499,2025-11-01,Delivered,Kochi,Kerala,Credit Card
+1593,583,2025-10-23,Delivered,Hyderabad,Telangana,Net Banking
+1594,234,2025-11-24,Delivered,Ahmedabad,Gujarat,Debit Card
+1595,446,2025-12-13,Delivered,Jaipur,Rajasthan,Cash on Delivery
+1596,221,2025-07-22,Delivered,Delhi,Delhi,Cash on Delivery
+1597,148,2025-05-26,Delivered,Jaipur,Rajasthan,Debit Card
+1598,275,2025-06-25,Delivered,Chennai,Tamil Nadu,Debit Card
+1599,3,2025-09-21,Delivered,Nagpur,Maharashtra,UPI
+1600,349,2025-09-12,Delivered,Mumbai,Maharashtra,Debit Card
+1601,621,2025-12-22,Delivered,Nagpur,Maharashtra,Net Banking
+1602,647,2025-12-08,Delivered,Hyderabad,Telangana,UPI
+1603,249,2025-06-19,Delivered,Chennai,Tamil Nadu,UPI
+1604,237,2025-11-23,Delivered,Chennai,Tamil Nadu,Credit Card
+1605,604,2025-11-11,Delivered,Hyderabad,Telangana,Credit Card
+1606,210,2025-11-10,Delivered,Kochi,Kerala,UPI
+1607,359,2025-06-15,Returned,Delhi,Delhi,Credit Card
+1608,46,2025-11-09,Delivered,Nagpur,Maharashtra,Debit Card
+1609,300,2025-03-14,Delivered,Kolkata,West Bengal,Credit Card
+1610,625,2025-01-12,Delivered,Pune,Maharashtra,Net Banking
+1611,400,2025-09-01,Delivered,Ahmedabad,Gujarat,UPI
+1612,165,2025-04-29,Delivered,Bengaluru,Karnataka,Cash on Delivery
+1613,135,2025-12-25,Delivered,Ahmedabad,Gujarat,Credit Card
+1614,32,2025-11-10,Delivered,Delhi,Delhi,UPI
+1615,542,2025-11-06,Delivered,Mumbai,Maharashtra,Net Banking
+1616,388,2025-04-01,Delivered,Jaipur,Rajasthan,Debit Card
+1617,644,2025-05-20,Delivered,Lucknow,Uttar Pradesh,UPI
+1618,277,2025-03-17,Delivered,Kochi,Kerala,Net Banking
+1619,451,2025-12-02,Delivered,Nagpur,Maharashtra,Cash on Delivery
+1620,52,2025-05-15,Delivered,Pune,Maharashtra,UPI
+1621,204,2025-11-01,Delivered,Ahmedabad,Gujarat,UPI
+1622,245,2025-12-29,Cancelled,Kochi,Kerala,UPI
+1623,569,2025-01-27,Delivered,Lucknow,Uttar Pradesh,UPI
+1624,315,2025-12-28,Delivered,Delhi,Delhi,Debit Card
+1625,695,2025-07-16,Cancelled,Hyderabad,Telangana,Net Banking
+1626,247,2025-11-10,Delivered,Nagpur,Maharashtra,Cash on Delivery
+1627,167,2025-09-18,Delivered,Delhi,Delhi,Credit Card
+1628,321,2025-08-12,Delivered,Kochi,Kerala,Net Banking
+1629,529,2025-12-05,Delivered,Nagpur,Maharashtra,Debit Card
+1630,644,2025-12-19,Delivered,Lucknow,Uttar Pradesh,Debit Card
+1631,564,2025-10-22,Delivered,Ahmedabad,Gujarat,Cash on Delivery
+1632,441,2025-08-22,Delivered,Ahmedabad,Gujarat,UPI
+1633,21,2025-04-03,Delivered,Bengaluru,Karnataka,Net Banking
+1634,135,2025-12-29,Delivered,Ahmedabad,Gujarat,Credit Card
+1635,107,2025-12-24,Delivered,Chennai,Tamil Nadu,UPI
+1636,287,2025-02-05,Delivered,Kolkata,West Bengal,UPI
+1637,272,2025-11-04,Delivered,Kochi,Kerala,Net Banking
+1638,362,2025-09-07,Delivered,Lucknow,Uttar Pradesh,UPI
+1639,27,2025-09-19,Delivered,Kolkata,West Bengal,Debit Card
+1640,648,2025-08-10,Delivered,Bengaluru,Karnataka,Cash on Delivery
+1641,644,2025-11-10,Cancelled,Lucknow,Uttar Pradesh,Cash on Delivery
+1642,26,2025-03-27,Returned,Nagpur,Maharashtra,Net Banking
+1643,2,2025-03-11,Delivered,Chennai,Tamil Nadu,Net Banking
+1644,392,2025-01-04,Returned,Ahmedabad,Gujarat,Debit Card
+1645,584,2025-08-20,Delivered,Hyderabad,Telangana,Credit Card
+1646,169,2025-02-01,Delivered,Ahmedabad,Gujarat,Credit Card
+1647,77,2025-05-11,Delivered,Bengaluru,Karnataka,Cash on Delivery
+1648,569,2025-08-23,Delivered,Lucknow,Uttar Pradesh,Cash on Delivery
+1649,543,2025-06-25,Delivered,Mumbai,Maharashtra,Debit Card
+1650,453,2025-08-09,Delivered,Pune,Maharashtra,Cash on Delivery
+1651,67,2025-12-20,Delivered,Kochi,Kerala,Credit Card
+1652,604,2025-12-13,Returned,Hyderabad,Telangana,UPI
+1653,190,2025-10-22,Delivered,Kolkata,West Bengal,Cash on Delivery
+1654,111,2025-11-23,Delivered,Bengaluru,Karnataka,Cash on Delivery
+1655,275,2025-04-22,Delivered,Chennai,Tamil Nadu,Net Banking
+1656,640,2025-11-14,Delivered,Bengaluru,Karnataka,Cash on Delivery
+1657,448,2025-07-06,Delivered,Kolkata,West Bengal,Debit Card
+1658,681,2025-11-27,Delivered,Mumbai,Maharashtra,UPI
+1659,33,2025-07-11,Delivered,Kochi,Kerala,UPI
+1660,269,2025-04-07,Cancelled,Lucknow,Uttar Pradesh,Credit Card
+1661,395,2025-01-12,Delivered,Kolkata,West Bengal,UPI
+1662,349,2025-03-26,Delivered,Mumbai,Maharashtra,Debit Card
+1663,642,2025-12-28,Delivered,Chennai,Tamil Nadu,Credit Card
+1664,52,2025-12-09,Delivered,Pune,Maharashtra,Net Banking
+1665,505,2025-12-25,Delivered,Ahmedabad,Gujarat,Cash on Delivery
+1666,454,2025-12-13,Delivered,Mumbai,Maharashtra,UPI
+1667,564,2025-11-10,Delivered,Ahmedabad,Gujarat,Debit Card
+1668,196,2025-11-16,Delivered,Delhi,Delhi,Credit Card
+1669,41,2025-09-11,Delivered,Jaipur,Rajasthan,Net Banking
+1670,409,2025-12-06,Delivered,Lucknow,Uttar Pradesh,UPI
+1671,204,2025-01-16,Returned,Lucknow,Uttar Pradesh,UPI
+1672,700,2025-01-15,Delivered,Kolkata,West Bengal,Cash on Delivery
+1673,630,2025-12-19,Delivered,Kolkata,West Bengal,Cash on Delivery
+1674,252,2025-06-22,Cancelled,Mumbai,Maharashtra,Cash on Delivery
+1675,20,2025-10-08,Delivered,Bengaluru,Karnataka,Credit Card
+1676,603,2025-11-24,Delivered,Lucknow,Uttar Pradesh,Net Banking
+1677,78,2025-01-03,Delivered,Jaipur,Rajasthan,Debit Card
+1678,579,2025-11-20,Delivered,Kochi,Kerala,UPI
+1679,198,2025-12-18,Delivered,Pune,Maharashtra,Credit Card
+1680,611,2025-06-23,Delivered,Bengaluru,Karnataka,UPI
+1681,586,2025-09-25,Delivered,Kochi,Kerala,Net Banking
+1682,88,2025-04-10,Delivered,Mumbai,Maharashtra,Debit Card
+1683,276,2025-12-21,Returned,Nagpur,Maharashtra,Cash on Delivery
+1684,120,2025-12-15,Delivered,Nagpur,Maharashtra,Debit Card
+1685,193,2025-07-01,Cancelled,Pune,Maharashtra,UPI
+1686,694,2025-05-19,Delivered,Lucknow,Uttar Pradesh,Credit Card
+1687,640,2025-09-07,Delivered,Bengaluru,Karnataka,UPI
+1688,613,2025-12-16,Delivered,Chennai,Tamil Nadu,Credit Card
+1689,401,2025-03-18,Delivered,Bengaluru,Karnataka,Cash on Delivery
+1690,408,2025-11-14,Delivered,Delhi,Delhi,Debit Card
+1691,258,2025-02-03,Delivered,Chennai,Tamil Nadu,Debit Card
+1692,383,2025-11-07,Delivered,Jaipur,Rajasthan,Debit Card
+1693,116,2025-06-22,Delivered,Mumbai,Maharashtra,Debit Card
+1694,5,2025-03-03,Delivered,Hyderabad,Telangana,Credit Card
+1695,559,2025-10-27,Returned,Bengaluru,Karnataka,Debit Card
+1696,98,2025-11-07,Returned,Pune,Maharashtra,UPI
+1697,562,2025-09-07,Delivered,Chennai,Tamil Nadu,Net Banking
+1698,5,2025-10-24,Delivered,Hyderabad,Telangana,UPI
+1699,78,2025-12-03,Delivered,Jaipur,Rajasthan,Net Banking
+1700,132,2025-05-27,Cancelled,Nagpur,Maharashtra,Net Banking
+1701,584,2025-01-02,Delivered,Hyderabad,Telangana,Credit Card
+1702,531,2025-04-26,Delivered,Lucknow,Uttar Pradesh,Debit Card
+1703,584,2025-01-17,Delivered,Ahmedabad,Gujarat,Credit Card
+1704,536,2025-04-13,Delivered,Ahmedabad,Gujarat,Debit Card
+1705,236,2025-04-17,Returned,Pune,Maharashtra,Net Banking
+1706,33,2025-12-22,Delivered,Kochi,Kerala,UPI
+1707,486,2025-04-18,Delivered,Mumbai,Maharashtra,Credit Card
+1708,487,2025-11-25,Delivered,Chennai,Tamil Nadu,Cash on Delivery
+1709,349,2025-07-17,Delivered,Mumbai,Maharashtra,UPI
+1710,78,2025-11-19,Delivered,Jaipur,Rajasthan,Cash on Delivery
+1711,328,2025-12-09,Delivered,,West Bengal,Credit Card
+1712,59,2025-11-29,Delivered,Jaipur,Rajasthan,Credit Card
+1713,183,2025-12-07,Delivered,Chennai,Tamil Nadu,Cash on Delivery
+1714,35,2025-04-27,Delivered,,Maharashtra,UPI
+1715,176,2025-09-20,Delivered,Delhi,Delhi,UPI
+1716,577,2025-04-15,Returned,Lucknow,Uttar Pradesh,Net Banking
+1717,335,2025-02-19,Returned,Ahmedabad,Gujarat,Net Banking
+1718,557,2025-03-20,Delivered,Ahmedabad,Gujarat,Cash on Delivery
+1719,237,2025-01-30,Delivered,Chennai,Tamil Nadu,UPI
+1720,43,2025-12-05,Delivered,Kochi,Kerala,Net Banking
+1721,518,2025-05-11,Delivered,Delhi,Delhi,UPI
+1722,550,2025-12-04,Returned,Ahmedabad,Gujarat,Net Banking
+1723,526,2025-06-15,Delivered,Delhi,Delhi,Cash on Delivery
+1724,647,2025-06-02,Delivered,Hyderabad,Telangana,Cash on Delivery
+1725,595,2025-09-16,Delivered,Bengaluru,Karnataka,Credit Card
+1726,512,2025-11-28,Delivered,Bengaluru,Karnataka,Net Banking
+1727,464,2025-10-22,Delivered,Kolkata,West Bengal,Cash on Delivery
+1728,295,2025-01-01,Delivered,Pune,Maharashtra,UPI
+1729,249,2025-12-27,Delivered,Chennai,Tamil Nadu,Debit Card
+1730,657,2025-01-29,Delivered,Nagpur,Maharashtra,Cash on Delivery
+1731,110,2025-01-19,Delivered,Mumbai,Maharashtra,Cash on Delivery
+1732,632,2025-11-25,Delivered,Bengaluru,Karnataka,Credit Card
+1733,149,2025-12-08,Returned,Nagpur,Maharashtra,Credit Card
+1734,395,2025-08-30,Delivered,Kolkata,West Bengal,Cash on Delivery
+1735,53,2025-01-17,Delivered,Pune,Maharashtra,Debit Card
+1736,237,2025-11-08,Delivered,Chennai,Tamil Nadu,UPI
+1737,57,2025-03-11,Delivered,Jaipur,Rajasthan,Debit Card
+1738,205,2025-01-11,Delivered,Kolkata,West Bengal,Cash on Delivery
+1739,110,2025-11-07,Returned,Jaipur,Rajasthan,UPI
+1740,493,2025-11-03,Delivered,Pune,Maharashtra,Debit Card
+1741,425,2025-01-18,Delivered,Lucknow,Uttar Pradesh,Net Banking
+1742,423,2025-12-01,Cancelled,Kochi,Kerala,Cash on Delivery
+1743,516,2025-07-19,Delivered,Bengaluru,Karnataka,Debit Card
+1744,54,2025-12-21,Delivered,Kolkata,West Bengal,Net Banking
+1745,300,2025-12-09,Delivered,Chennai,Tamil Nadu,Net Banking
+1746,559,2025-03-09,Cancelled,Bengaluru,Karnataka,Debit Card
+1747,324,2025-11-14,Delivered,Delhi,Delhi,UPI
+1748,312,2025-05-05,Delivered,Mumbai,Maharashtra,Credit Card
+1749,599,2025-02-25,Delivered,Lucknow,Uttar Pradesh,Debit Card
+1750,386,2025-09-04,Delivered,Kochi,Kerala,Credit Card
+1751,564,2025-10-17,Delivered,Ahmedabad,Gujarat,UPI
+1752,508,2025-11-20,Delivered,Ahmedabad,Gujarat,Net Banking
+1753,213,2025-11-20,Delivered,Kochi,Kerala,Debit Card
+1754,392,2025-05-08,Delivered,Ahmedabad,Gujarat,Cash on Delivery
+1755,298,2025-09-11,Returned,Kolkata,West Bengal,Debit Card
+1756,616,2025-09-04,Delivered,Bengaluru,Karnataka,Debit Card
+1757,39,2025-05-23,Delivered,Pune,Maharashtra,Net Banking
+1758,24,2025-11-10,Delivered,Chennai,Tamil Nadu,Debit Card
+1759,158,2025-08-19,Cancelled,Lucknow,Uttar Pradesh,Credit Card
+1760,196,2025-09-26,Delivered,Delhi,Delhi,Credit Card
+1761,8,2025-04-18,Delivered,Jaipur,Rajasthan,Cash on Delivery
+1762,45,2025-11-20,Delivered,Bengaluru,Karnataka,Debit Card
+1763,464,2025-06-30,Delivered,Kolkata,West Bengal,Net Banking
+1764,10,2025-12-18,Delivered,Mumbai,Maharashtra,Credit Card
+1765,49,2025-12-21,Returned,Kochi,Kerala,Debit Card
+1766,601,2025-01-17,Returned,Jaipur,Rajasthan,Credit Card
+1767,361,2025-08-10,Returned,Kochi,Kerala,Credit Card
+1768,595,2025-12-31,Delivered,Bengaluru,Karnataka,Debit Card
+1769,126,2025-11-17,Delivered,Jaipur,Rajasthan,Cash on Delivery
+1770,551,2025-09-07,Delivered,Hyderabad,Telangana,UPI
+1771,432,2025-04-23,Delivered,Kolkata,West Bengal,Debit Card
+1772,272,2025-11-13,Delivered,Kochi,Kerala,Net Banking
+1773,322,2025-11-15,Delivered,Ahmedabad,Gujarat,Credit Card
+1774,450,2025-12-30,Delivered,Jaipur,Rajasthan,Debit Card
+1775,652,2025-08-25,Delivered,Chennai,Tamil Nadu,UPI
+1776,668,2025-11-18,Delivered,Lucknow,Uttar Pradesh,Debit Card
+1777,290,2025-07-31,Delivered,Kochi,Kerala,Cash on Delivery
+1778,92,2025-05-31,Delivered,Jaipur,Rajasthan,Net Banking
+1779,241,2025-06-29,Delivered,Jaipur,Rajasthan,Net Banking
+1780,269,2025-05-03,Delivered,Lucknow,Uttar Pradesh,Credit Card
+1781,5,2025-11-25,Delivered,Hyderabad,Telangana,Debit Card
+1782,414,2025-04-07,Delivered,Hyderabad,Telangana,Net Banking
+1783,48,2025-05-22,Delivered,Bengaluru,Karnataka,Credit Card
+1784,467,2025-11-01,Cancelled,Kolkata,West Bengal,Debit Card
+1785,513,2025-07-21,Cancelled,Kochi,Kerala,Net Banking
+1786,385,2025-02-27,Delivered,Chennai,Tamil Nadu,Cash on Delivery
+1787,178,2025-10-01,Delivered,Jaipur,Rajasthan,Debit Card
+1788,76,2025-11-17,Delivered,Kolkata,West Bengal,Net Banking
+1789,289,2025-09-28,Delivered,Lucknow,Uttar Pradesh,Cash on Delivery
+1790,383,2025-12-09,Delivered,Kolkata,West Bengal,Credit Card
+1791,177,2025-11-25,Delivered,Ahmedabad,Gujarat,UPI
+1792,618,2025-12-15,Delivered,Pune,Maharashtra,UPI
+1793,614,2025-04-07,Delivered,Ahmedabad,Gujarat,Net Banking
+1794,33,2025-12-04,Cancelled,Kochi,Kerala,UPI
+1795,522,2025-11-29,Delivered,Kochi,Kerala,Net Banking
+1796,225,2025-01-02,Delivered,Hyderabad,Telangana,Debit Card
+1797,295,2025-01-03,Delivered,Pune,Maharashtra,Cash on Delivery
+1798,586,2025-12-29,Delivered,Kochi,Kerala,Cash on Delivery
+1799,137,2025-11-29,Delivered,Delhi,Delhi,Net Banking
+1800,393,2025-11-11,Delivered,Jaipur,Rajasthan,Net Banking
+1801,486,2025-08-28,Delivered,Mumbai,Maharashtra,Cash on Delivery
+1802,401,2025-11-28,Delivered,Bengaluru,Karnataka,Net Banking
+1803,150,2025-03-11,Returned,Pune,Maharashtra,UPI
+1804,231,2025-06-20,Delivered,Ahmedabad,Gujarat,Credit Card
+1805,682,2025-08-17,Cancelled,Nagpur,Maharashtra,Debit Card
+1806,531,2025-12-02,Returned,Lucknow,Uttar Pradesh,Cash on Delivery
+1807,656,2025-09-08,Cancelled,Lucknow,Uttar Pradesh,Credit Card
+1808,656,2025-09-09,Returned,Lucknow,Uttar Pradesh,Debit Card
+1809,15,2025-11-15,Delivered,Pune,Maharashtra,Credit Card
+1810,553,2025-01-27,Delivered,Bengaluru,Karnataka,Debit Card
+1811,610,2025-12-11,Delivered,Pune,Maharashtra,UPI
+1812,212,2025-11-02,Delivered,Mumbai,Maharashtra,Credit Card
+1813,486,2025-04-08,Delivered,Mumbai,Maharashtra,Net Banking
+1814,569,2025-11-22,Delivered,,Uttar Pradesh,Cash on Delivery
+1815,473,2025-05-08,Delivered,Pune,Maharashtra,UPI
+1816,475,2025-12-23,Delivered,Pune,Maharashtra,Cash on Delivery
+1817,441,2025-08-16,Returned,Kolkata,West Bengal,Cash on Delivery
+1818,188,2025-11-21,Returned,Delhi,Delhi,UPI
+1819,58,2025-12-05,Delivered,Kochi,Kerala,Credit Card
+1820,521,2025-11-04,Delivered,Nagpur,Maharashtra,Debit Card
+1821,205,2025-06-17,Delivered,Kolkata,West Bengal,Debit Card
+1822,187,2025-12-08,Returned,Pune,Maharashtra,Debit Card
+1823,100,2025-11-28,Returned,Chennai,Tamil Nadu,Credit Card
+1824,616,2025-06-27,Delivered,Bengaluru,Karnataka,Debit Card
+1825,238,2025-06-13,Delivered,Lucknow,Uttar Pradesh,Credit Card
+1826,326,2025-09-01,Delivered,Kolkata,West Bengal,Cash on Delivery
