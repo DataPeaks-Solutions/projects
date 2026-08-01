@@ -9,6 +9,7 @@ Real-world data analytics projects added every Saturday. Domains: Healthcare · 
 | 01 | [Hospital Patient Analysis](week01_Hospital-Patient-analysis/) | Python, Pandas, Matplotlib |
 | 02 | [Marketing Attribution & CAC/ROAS Pipeline](week02_Marketing-Attribution-Pipeline/) | Python, Pandas, NumPy, Matplotlib |
 | 03 | [Loan Default Prediction](week03_Loan-Default-Prediction/) | Python, Pandas, Scikit-learn, Matplotlib |
+| 04 | [E-commerce Order Analysis](week04_E-commerce-Order-Analysis) | SQL, MySQL |
 
 ## Tech Stack
 
