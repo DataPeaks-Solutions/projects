@@ -1,0 +1,151 @@
+provider_id,provider_name,specialty,state
+1,Provider_001,Ophthalmology,CA
+2,Provider_002,Cardiology,IL
+3,Provider_003,Family Medicine,FL
+4,Provider_004,Orthopedics,CA
+5,Provider_005,Ophthalmology,MI
+6,Provider_006,Endocrinology,PA
+7,Provider_007,Oncology,TX
+8,Provider_008,Cardiology,CA
+9,Provider_009,Family Medicine,FL
+10,Provider_010,OB/GYN,PA
+11,Provider_011,Cardiology,MI
+12,Provider_012,Family Medicine,MI
+13,Provider_013,Oncology,FL
+14,Provider_014,Nephrology,PA
+15,Provider_015,Psychiatry,TX
+16,Provider_016,Orthopedics,GA
+17,Provider_017,Gastroenterology,IL
+18,Provider_018,Orthopedics,FL
+19,Provider_019,Gastroenterology,CA
+20,Provider_020,Endocrinology,GA
+21,Provider_021,Endocrinology,OH
+22,Provider_022,Gastroenterology,PA
+23,Provider_023,Psychiatry,TX
+24,Provider_024,General Surgery,NC
+25,Provider_025,OB/GYN,CA
+26,Provider_026,Oncology,CA
+27,Provider_027,OB/GYN,IL
+28,Provider_028,Ophthalmology,PA
+29,Provider_029,Gastroenterology,PA
+30,Provider_030,Family Medicine,CA
+31,Provider_031,Cardiology,FL
+32,Provider_032,Psychiatry,CA
+33,Provider_033,Family Medicine,CA
+34,Provider_034,Oncology,IL
+35,Provider_035,Nephrology,OH
+36,Provider_036,Orthopedics,OH
+37,Provider_037,Gastroenterology,FL
+38,Provider_038,Ophthalmology,IL
+39,Provider_039,General Surgery,CA
+40,Provider_040,Dermatology,NY
+41,Provider_041,OB/GYN,FL
+42,Provider_042,Orthopedics,NC
+43,Provider_043,Oncology,IL
+44,Provider_044,Ophthalmology,MI
+45,Provider_045,Family Medicine,OH
+46,Provider_046,Cardiology,FL
+47,Provider_047,Cardiology,OH
+48,Provider_048,Oncology,IL
+49,Provider_049,Endocrinology,FL
+50,Provider_050,Dermatology,OH
+51,Provider_051,Family Medicine,NC
+52,Provider_052,Oncology,NC
+53,Provider_053,Orthopedics,IL
+54,Provider_054,Orthopedics,FL
+55,Provider_055,General Surgery,MI
+56,Provider_056,OB/GYN,IL
+57,Provider_057,General Surgery,PA
+58,Provider_058,Oncology,PA
+59,Provider_059,Oncology,OH
+60,Provider_060,Family Medicine,NY
+61,Provider_061,OB/GYN,NC
+62,Provider_062,Endocrinology,TX
+63,Provider_063,Endocrinology,NY
+64,Provider_064,Ophthalmology,NY
+65,Provider_065,Ophthalmology,GA
+66,Provider_066,Dermatology,CA
+67,Provider_067,Oncology,GA
+68,Provider_068,Dermatology,NC
+69,Provider_069,OB/GYN,IL
+70,Provider_070,OB/GYN,TX
+71,Provider_071,Ophthalmology,CA
+72,Provider_072,Ophthalmology,MI
+73,Provider_073,Psychiatry,OH
+74,Provider_074,Endocrinology,IL
+75,Provider_075,Oncology,NY
+76,Provider_076,Nephrology,TX
+77,Provider_077,General Surgery,IL
+78,Provider_078,OB/GYN,NY
+79,Provider_079,OB/GYN,CA
+80,Provider_080,Ophthalmology,IL
+81,Provider_081,Ophthalmology,MI
+82,Provider_082,Dermatology,FL
+83,Provider_083,Orthopedics,OH
+84,Provider_084,Orthopedics,MI
+85,Provider_085,OB/GYN,TX
+86,Provider_086,Dermatology,OH
+87,Provider_087,Nephrology,TX
+88,Provider_088,Endocrinology,OH
+89,Provider_089,Psychiatry,FL
+90,Provider_090,Cardiology,FL
+91,Provider_091,Dermatology,CA
+92,Provider_092,Endocrinology,NC
+93,Provider_093,Endocrinology,MI
+94,Provider_094,Orthopedics,NY
+95,Provider_095,Ophthalmology,NC
+96,Provider_096,OB/GYN,NY
+97,Provider_097,Psychiatry,MI
+98,Provider_098,Dermatology,GA
+99,Provider_099,Family Medicine,MI
+100,Provider_100,General Surgery,FL
+101,Provider_101,General Surgery,IL
+102,Provider_102,Oncology,OH
+103,Provider_103,Nephrology,MI
+104,Provider_104,Nephrology,CA
+105,Provider_105,Family Medicine,FL
+106,Provider_106,Endocrinology,OH
+107,Provider_107,Cardiology,PA
+108,Provider_108,OB/GYN,FL
+109,Provider_109,Dermatology,FL
+110,Provider_110,Cardiology,CA
+111,Provider_111,General Surgery,TX
+112,Provider_112,Family Medicine,CA
+113,Provider_113,Cardiology,OH
+114,Provider_114,Endocrinology,MI
+115,Provider_115,Family Medicine,IL
+116,Provider_116,Ophthalmology,NC
+117,Provider_117,Family Medicine,MI
+118,Provider_118,Orthopedics,PA
+119,Provider_119,Dermatology,NC
+120,Provider_120,Family Medicine,NC
+121,Provider_121,Oncology,FL
+122,Provider_122,Endocrinology,CA
+123,Provider_123,Ophthalmology,GA
+124,Provider_124,Gastroenterology,GA
+125,Provider_125,Oncology,NC
+126,Provider_126,General Surgery,TX
+127,Provider_127,Ophthalmology,CA
+128,Provider_128,Cardiology,GA
+129,Provider_129,General Surgery,OH
+130,Provider_130,Endocrinology,FL
+131,Provider_131,Family Medicine,FL
+132,Provider_132,OB/GYN,NC
+133,Provider_133,Orthopedics,GA
+134,Provider_134,Orthopedics,IL
+135,Provider_135,Nephrology,FL
+136,Provider_136,Endocrinology,NC
+137,Provider_137,OB/GYN,CA
+138,Provider_138,Cardiology,MI
+139,Provider_139,Cardiology,CA
+140,Provider_140,Family Medicine,NY
+141,Provider_141,Oncology,NC
+142,Provider_142,Nephrology,FL
+143,Provider_143,Oncology,TX
+144,Provider_144,Orthopedics,GA
+145,Provider_145,Cardiology,GA
+146,Provider_146,Psychiatry,NC
+147,Provider_147,Psychiatry,GA
+148,Provider_148,General Surgery,MI
+149,Provider_149,Ophthalmology,NC
+150,Provider_150,Orthopedics,FL

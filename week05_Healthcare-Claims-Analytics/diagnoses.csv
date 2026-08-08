@@ -1,0 +1,16 @@
+diagnosis_id,icd10_code,category
+1,E11.9,Diabetes
+2,I10,Hypertension
+3,J45.909,Asthma/Respiratory
+4,M54.5,Musculoskeletal
+5,F41.1,Behavioral Health
+6,K21.9,Gastrointestinal
+7,I25.10,Cardiac
+8,N18.9,Renal
+9,C50.9,Oncology
+10,S72.001A,Orthopedic Trauma
+11,O80,Maternity/OB
+12,H52.4,Vision/Ophthalmology
+13,Z00.00,Preventive/Wellness
+14,R10.9,General Symptoms
+15,L40.9,Dermatology

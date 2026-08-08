@@ -1,0 +1,9 @@
+payer_id,payer_name,payer_type
+1,MediCore Health Plan,Commercial
+2,StateCare Medicaid,Medicaid
+3,Federal Senior Cover,Medicare
+4,BlueHarbor Insurance,Commercial
+5,Unity Health Alliance,Commercial
+6,Veterans Health Network,Government
+7,SilverLine Medicare Advantage,Medicare
+8,Sunrise Community Plan,Medicaid
