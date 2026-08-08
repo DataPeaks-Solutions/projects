@@ -10,7 +10,7 @@ Real-world data analytics projects added every Saturday. Domains: Healthcare · 
 | 02 | [Marketing Attribution & CAC/ROAS Pipeline](week02_Marketing-Attribution-Pipeline/) | Python, Pandas, NumPy, Matplotlib |
 | 03 | [Loan Default Prediction](week03_Loan-Default-Prediction/) | Python, Pandas, Scikit-learn, Matplotlib |
 | 04 | [E-commerce Order Analysis](week04_E-commerce-Order-Analysis) | SQL, MySQL |
-
+| 05 | [Healthcare Claims Analytics](week05_Healthcare-Claims-Analytics/) | SQL, MySQL |
 ## Tech Stack
 
 Python - SQL - Power BI - Machine Learning
