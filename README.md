@@ -11,6 +11,8 @@ Real-world data analytics projects added every Saturday. Domains: Healthcare · 
 | 03 | [Loan Default Prediction](week03_Loan-Default-Prediction/) | Python, Pandas, Scikit-learn, Matplotlib |
 | 04 | [E-commerce Order Analysis](week04_E-commerce-Order-Analysis) | SQL, MySQL |
 | 05 | [Healthcare Claims Analytics](week05_Healthcare-Claims-Analytics/) | SQL, MySQL |
+| 06 | [E-commerce Order Analysis Dashboard](week06_PowerBI-Ecommerce-Dashboard) | Power BI, MySQL, DAX |
+
 ## Tech Stack
 
 Python - SQL - Power BI - Machine Learning
